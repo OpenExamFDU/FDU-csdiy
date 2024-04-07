@@ -15,6 +15,5 @@ description: COMP130207
   * 李沐 - 动手学深度学习
 * 网课：
   * ☆ [UCB CS188 Introduction to Artificial Intelligence](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS188/)
-  * [Harvard CS50 Introduction to Artificial Intelligence with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/)（科普）
   * [Stanford CS221 Artificial Intelligence: Principles and Techniques](https://www.bilibili.com/video/BV1Rt4y1B7WT)
 

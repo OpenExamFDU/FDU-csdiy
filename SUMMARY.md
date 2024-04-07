@@ -1,6 +1,7 @@
 # Table of contents
 
 * [FDU CS自学指南](README.md)
+* [我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
 
 ## 大类基础 <a href="#basic" id="basic"></a>
 
