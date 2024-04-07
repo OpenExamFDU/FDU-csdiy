@@ -27,18 +27,33 @@
   * [并行分布计算](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/bing-hang-fen-bu-ji-suan.md)
 * [大数据学院](core/da-shu-ju-xue-yuan/README.md)
   * [高等线性代数](core/da-shu-ju-xue-yuan/gao-deng-xian-xing-dai-shu.md)
+  * [数值算法与案例分析I](core/da-shu-ju-xue-yuan/shu-zhi-suan-fa-yu-an-li-fen-xi-i.md)
   * [最优化方法](core/da-shu-ju-xue-yuan/zui-you-hua-fang-fa.md)
+  * [计算机原理](core/da-shu-ju-xue-yuan/ji-suan-ji-yuan-li.md)
+  * [统计学基础：原理、方法及R应用 (I)](core/da-shu-ju-xue-yuan/tong-ji-xue-ji-chu-yuan-li-fang-fa-jirying-yong-i.md)
+  * [数据库及实现](core/da-shu-ju-xue-yuan/shu-ju-ku-ji-shi-xian.md)
+  * [统计（机器）学习概论](core/da-shu-ju-xue-yuan/tong-ji-ji-qi-xue-xi-gai-lun.md)
+  * [人工智能](core/da-shu-ju-xue-yuan/ren-gong-zhi-neng.md)
+  * [神经网络与深度学习](core/da-shu-ju-xue-yuan/shen-jing-wang-luo-yu-shen-du-xue-xi.md)
 
 ## 专业选修 <a href="#selective" id="selective"></a>
 
 * [模式识别与机器学习](selective/mo-shi-shi-bie-yu-ji-qi-xue-xi.md)
+* [机器学习](selective/ji-qi-xue-xi.md)
 * [人机交互](selective/ren-ji-jiao-hu.md)
 * [自然语言处理](selective/zi-ran-yu-yan-chu-li.md)
 * [计算机视觉](selective/ji-suan-ji-shi-jue.md)
 * [计算机图形学](selective/ji-suan-ji-tu-xing-xue.md)
 * [并发理论](selective/bing-fa-li-lun.md)
+* [编程方法与技术](selective/bian-cheng-fang-fa-yu-ji-shu.md)
+* [移动互联网](selective/yi-dong-hu-lian-wang.md)
 * [数据挖掘技术](selective/shu-ju-wa-jue-ji-shu.md)
+* [随机过程导论](selective/sui-ji-guo-cheng-dao-lun.md)
+* [高级大数据解析](selective/gao-ji-da-shu-ju-jie-xi.md)
+* [强化学习算法与理论基础](selective/qiang-hua-xue-xi-suan-fa-yu-li-lun-ji-chu.md)
 
 ## 补充内容 <a href="#supplements" id="supplements"></a>
 
 * [机器学习数学基础](supplements/ji-qi-xue-xi-shu-xue-ji-chu.md)
+* [机器学习系统](supplements/ji-qi-xue-xi-xi-tong.md)
+* [大语言模型](supplements/da-yu-yan-mo-xing.md)
