@@ -22,6 +22,7 @@
 * [吴恩达 - AI for Everyone](https://www.bilibili.com/video/BV1yC4y127uj)
 * [吴恩达 - GenAI for Everyone](https://www.bilibili.com/video/BV11G411X7nZ)
 * [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj\_g)
+* [DeepLearning.AI Courses](https://www.deeplearning.ai/courses/)
 
 ### 数据科学 / 深度学习科普
 
