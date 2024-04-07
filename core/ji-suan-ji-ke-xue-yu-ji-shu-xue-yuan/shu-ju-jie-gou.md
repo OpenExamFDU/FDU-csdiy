@@ -1,19 +1,20 @@
 # 数据结构
 
-### 内容重要性：高
+### 内容重要性：☆☆☆☆☆
 
-### 教学效果：一般
+### 教学效果：☆☆☆
 
 ### 学习建议：
 
-* 教材：
+* 参考教材：
   * 陈越 - 数据结构（C语言版）
   * 邓俊辉 - 数据结构（C++版）
   * Robert Sedgewick - 算法（Java版）
   * Mark Allen Weiss - 数据结构与算法分析
   * 胡凡 - 算法笔记
 * 网课：
-  * 陈越 - 数据结构
-  * UCB CS61B Data Structures and Algorithms
-  * ☆ Robert Sedgewick - Algorithms I\&II
-  * ☆ MIT 6.006 Introduction to Algorithms
+  * ☆ [陈越 - 数据结构（C语言版）](https://www.bilibili.com/video/BV1H4411N7oD)
+  * ☆ [UCB CS61B Data Structures and Algorithms (Taught in Java)](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS61B/#\_1)
+  * [Robert Sedgewick - Algorithms I\&II](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/Algo/)
+  * [MIT 6.006 Introduction to Algorithms](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/6.006/)
+

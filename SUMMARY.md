@@ -8,7 +8,6 @@
 * [大学物理B 上/下](basic/da-xue-wu-lib-shang-xia.md)
 * [程序设计](basic/cheng-xu-she-ji.md)
 * [线性代数](basic/xian-xing-dai-shu.md)
-* [电子系统导论](basic/dian-zi-xi-tong-dao-lun.md)
 
 ## 专业核心 <a href="#core" id="core"></a>
 
@@ -19,7 +18,6 @@
   * [计算机系统基础](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/ji-suan-ji-xi-tong-ji-chu.md)
   * [计算机组成与体系结构](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/ji-suan-ji-zu-cheng-yu-ti-xi-jie-gou.md)
   * [数据库引论](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/shu-ju-ku-yin-lun.md)
-  * [计算理论基础](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/ji-suan-li-lun-ji-chu.md)
   * [概率论与数理统计](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/gai-shuai-lun-yu-shu-li-tong-ji.md)
   * [计算机网络](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/ji-suan-ji-wang-luo.md)
   * [操作系统](core/ji-suan-ji-ke-xue-yu-ji-shu-xue-yuan/cao-zuo-xi-tong.md)
@@ -40,3 +38,7 @@
 * [计算机图形学](selective/ji-suan-ji-tu-xing-xue.md)
 * [并发理论](selective/bing-fa-li-lun.md)
 * [数据挖掘技术](selective/shu-ju-wa-jue-ji-shu.md)
+
+## 补充内容 <a href="#supplements" id="supplements"></a>
+
+* [机器学习数学基础](supplements/ji-qi-xue-xi-shu-xue-ji-chu.md)

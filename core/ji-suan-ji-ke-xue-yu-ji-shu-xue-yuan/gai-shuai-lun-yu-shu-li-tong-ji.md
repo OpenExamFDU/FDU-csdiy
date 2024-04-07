@@ -1,16 +1,19 @@
 # 概率论与数理统计
 
-### 内容重要性：高
+### 内容重要性：☆☆☆☆☆
 
-### 教学效果：一般
+### 教学效果：☆☆☆
 
 ### 学习建议：
 
 * 教材：
   * ☆ Joseph K.Blitzstein - 概率论导论
-  * Dimitri P. Bertsekas - 概率导论
+  * ☆ Dimitri P. Bertsekas - 概率导论
   * 茆诗松 - 概率论与数理统计教程
   * Steven J. Miller - 普林斯顿概率论读本
-* 网课：
-  * ☆ MIT 6.041 Probabilistic Systems Analysis and Applied Probability
-  * Stanford CS109 Probability for Computer Scientists
+*   网课：
+
+    * ☆ [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1LE411B7ir)
+    * [Stanford CS109 Probability for Computer Scientists](https://www.bilibili.com/video/BV1da411c7C8)
+    * [UCSD MATH181A Mathematical Statistics I](https://www.bilibili.com/video/BV1q54y1e75b)
+

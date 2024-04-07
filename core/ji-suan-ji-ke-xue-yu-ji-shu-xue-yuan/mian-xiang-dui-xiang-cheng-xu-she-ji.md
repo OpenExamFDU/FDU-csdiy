@@ -1,16 +1,17 @@
 # 面向对象程序设计
 
-### 内容重要性：高
+### 内容重要性：☆☆☆☆☆
 
-### 教学效果：一般
+### 教学效果：☆☆☆
 
 ### 学习建议：
 
-* 教材：
+* 参考教材：
   * ☆ Stanley B·Lippman - Essential C++
   * Stanley B. Lippman - C++ Primer
   * Scott Meyers - Effective Modern C++
 * 网课：
-  * ☆ Stanford CS106L Standard C++ Programming
-  * 侯捷 - C++ STL标准库和泛型编程
-  * 北京大学 - C++面向对象程序设计
+  * ☆ [Stanford CS106L Standard C++ Programming](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS106L/#\_1)
+  * [侯捷 - C++ STL标准库和泛型编程](https://www.bilibili.com/video/BV1qc411Q7c2)
+  * [北京大学 - C++面向对象程序设计](https://www.bilibili.com/video/BV1ob411q7vb)
+
