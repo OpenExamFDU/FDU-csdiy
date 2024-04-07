@@ -55,6 +55,8 @@
 
 ## 补充内容 <a href="#supplements" id="supplements"></a>
 
+* [本科生科研](supplements/ben-ke-sheng-ke-yan.md)
+* [出国留学](supplements/chu-guo-liu-xue.md)
 * [机器学习数学基础](supplements/ji-qi-xue-xi-shu-xue-ji-chu.md)
-* [机器学习系统](supplements/ji-qi-xue-xi-xi-tong.md)
 * [大语言模型](supplements/da-yu-yan-mo-xing.md)
+* [机器学习系统](supplements/ji-qi-xue-xi-xi-tong.md)
