@@ -20,6 +20,7 @@ description: DATA130060
     * [Pieter Abbeel - Foundations of Deep RL](https://hrl.boyuai.com/)
     * [HuggingFace Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
     * [UCB CS287 Advanced Robotics](https://www.bilibili.com/video/BV1Lo4y187aN)
+    * [Reinforcement Learning Tips and Tricks](https://stable-baselines.readthedocs.io/en/master/guide/rl\_tips.html)
 
 
 
