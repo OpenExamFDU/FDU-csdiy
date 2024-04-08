@@ -16,6 +16,7 @@
 * [UW Protein Design Videos](https://www.ipd.uw.edu/learn/)
 * [ML for Protein Engineering Seminar Series](https://www.youtube.com/@mlforproteinengineeringsem6420/featured)
 * [MIT 6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)
+* [MIT MAS.63 How To Grow (almost) Anything](https://fab.cba.mit.edu/classes/S63.21/index.html)
 * [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
 
 
