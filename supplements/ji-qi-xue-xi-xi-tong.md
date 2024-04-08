@@ -4,7 +4,7 @@
 
 * [微软亚洲研究院 - 人工智能系统](https://github.com/microsoft/AI-System)
 * [CMU 10-414 Deep Learning Systems](https://dlsyscourse.org/lectures/)
-* [CMU 15-442/ Machine Learning Systems](https://mlsyscourse.org/)
+* [CMU 15-442 Machine Learning Systems](https://mlsyscourse.org/)
 * [Stanford MLSys Seminar](https://mlsys.stanford.edu/)
 * [MIT 6.5940 TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
 * [UCB CS294 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
