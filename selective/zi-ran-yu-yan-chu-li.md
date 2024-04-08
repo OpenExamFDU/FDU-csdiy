@@ -14,6 +14,7 @@ description: COMP130141
 
     * ☆ [Stanford CS224n NLP with Deep Learning](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS224n/#\_1)
     * [Stanford CS324 Large Language Models](https://stanford-cs324.github.io/winter2022/)
+    * [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
     * [Samuel Albanie - Foundation Models](https://samuelalbanie.com/teaching/2022-foundation-models)
 
 

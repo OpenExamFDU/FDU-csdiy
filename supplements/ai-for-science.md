@@ -7,6 +7,9 @@
 * [Princeton COS IW10 Molecular Machine Learning](https://www.cs.princeton.edu/courses/archive/spr24/cosIW10/)
 * [Princeton CS597N Advanced Topics in Computer Science: Machine Learning for Structural Biology](https://www.cs.princeton.edu/courses/archive/fall23/cos597N/)
 * [MIT 6.047 Machine Learning for Genomics](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz\_\_CdsaoKJ)
+* [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
+
+
 
 
 
