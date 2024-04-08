@@ -9,9 +9,7 @@
 * [Gatech CS6210 Advanced Operating Systems](https://www.youtube.com/watch?v=GTObrKKbRww\&list=PLAwxTw4SYaPkKfusBLVfklgfdcB3BNpwX)
 * [MIT 6.887 Machine Learning for Systems](https://dsg.csail.mit.edu/6.887/)
 
-
-
-## Computer Security
+### Computer Security
 
 * [Stanford CS110L Safety in System Programming](https://reberhardt.com/cs110l/spring-2020/)
 * [MIT 6.858 Computer System Security](https://csdiy.wiki/%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8/MIT6.858/)
