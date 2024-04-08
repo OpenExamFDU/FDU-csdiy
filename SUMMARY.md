@@ -63,7 +63,7 @@
 * [出国留学](supplements/chu-guo-liu-xue.md)
 * [机器学习数学基础](supplements/ji-qi-xue-xi-shu-xue-ji-chu.md)
 * [Web 开发](supplements/web-kai-fa.md)
-* [大语言模型](supplements/da-yu-yan-mo-xing.md)
+* [大模型](supplements/da-mo-xing.md)
 * [AI for Science](supplements/ai-for-science.md)
 * [机器学习理论](supplements/ji-qi-xue-xi-li-lun.md)
 * [机器学习系统](supplements/ji-qi-xue-xi-xi-tong.md)
