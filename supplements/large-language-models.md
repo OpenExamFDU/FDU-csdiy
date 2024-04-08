@@ -1,6 +1,6 @@
-# 大语言模型
+# Large Language Models
 
-### 学习建议：
+### 学习资料：
 
 * 网课
   * [李宏毅 - 生成式人工智能导论](https://speech.ee.ntu.edu.tw/\~hylee/genai/2024-spring.php)

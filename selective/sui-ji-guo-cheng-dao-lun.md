@@ -17,5 +17,8 @@ description: DATA130019
 
     * [清华大学 - 随机过程](https://www.bilibili.com/video/BV18p4y1u7NP)
     * [台湾交大 - 随机过程](https://www.bilibili.com/video/BV12K411K76U)
+    * [MIT 6.262 Discrete Stochastic Processes](https://ocw.mit.edu/courses/6-262-discrete-stochastic-processes-spring-2011/)
     * [UCB Stat150 Stochastic Processes](https://www.bilibili.com/video/BV1qB4y1A7t3)
+    *
+    *
 

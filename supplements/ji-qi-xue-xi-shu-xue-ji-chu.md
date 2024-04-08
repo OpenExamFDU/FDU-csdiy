@@ -1,6 +1,6 @@
 # 机器学习数学基础
 
-### 学习建议：
+### 学习资料：
 
 * 教材
   * Marc Peter Deisenroth - Mathematics for Machine Learning
