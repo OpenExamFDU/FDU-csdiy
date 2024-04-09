@@ -16,11 +16,11 @@
 * [UCB CS161 Computer Security](https://csdiy.wiki/%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8/CS161/)
 * [Tübingen Trustworthy Machine Learning](https://www.youtube.com/watch?v=ob7KTM2llNc\&list=PL05umP7R6ij0FDHxle4CQLkzOfN-PAt7b)
 * [UCB CS294-267 Understanding Large Language Models: Foundations and Safety](https://rdi.berkeley.edu/understanding\_llms/s24)
-* [UCB CS 294-131 Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
+* [UCB CS294-131 Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
 * [UCB CS294-238 Zero Knowledge Proofs](https://rdi.berkeley.edu/course/zkp/s23)
 * [MIT 15.S12 Blockchain and Money](https://www.youtube.com/playlist?list=PLDdHNjoAmwWjcckuEYeczDySu\_3L8-MmG)
 * [UCB CS294-177 Decentralized Finance](https://rdi.berkeley.edu/berkeley-defi/f22)
-* [UCB CS 294-163 Secure Systems from Decentralized Trust](https://inst.eecs.berkeley.edu/\~cs294-163/fa22/schedule)
+* [UCB CS294-163 Secure Systems from Decentralized Trust](https://inst.eecs.berkeley.edu/\~cs294-163/fa22/schedule)
 * [UCB CS276 Graduate Cryptography](https://inst.eecs.berkeley.edu/\~cs276/fa20/)
 * [UCB CS294-224 Entrepreneurship In Web3](https://rdi.berkeley.edu/course/entrepreneurship-in-web3)
 

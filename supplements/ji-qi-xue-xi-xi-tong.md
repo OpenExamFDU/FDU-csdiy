@@ -13,6 +13,7 @@
 * [UMich EECS598 Systems for Generative AI](https://github.com/mosharaf/eecs598/tree/w24-genai)
 * [CMU Machine Learning Compilation](https://mlc.ai/)
 * [UW CS599 ML for ML Systems](https://courses.cs.washington.edu/courses/cse599m/23sp/)
+* [UIUC CS598 AI Efficiency: Systems & Algorithms](https://minjiazhang.github.io/courses/24sp-schedule.html)
 * [Stanford CS217 Hardware Accelerators for Machine Learning](https://cs217.stanford.edu/)
 * [Cornell ECE5545 Machine Learning Hardware and Systems](https://abdelfattah-class.github.io/ece5545/sp23)
 * [UCB EE290 Hardware for Machine Learning](https://inst.eecs.berkeley.edu/\~ee290-2/sp21/)
