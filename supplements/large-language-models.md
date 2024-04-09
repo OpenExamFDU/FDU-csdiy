@@ -10,14 +10,17 @@
   * [Stanford CS324 Large Language Models](https://stanford-cs324.github.io/winter2023/)
   * [Stanford CS336 Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/index.html#schedule)
   * [CMU 11-667 Large Language Models Methods and Applications](https://cmu-llms.org/)
+  * [DeepLearning.AI Courses](https://www.deeplearning.ai/short-courses/)
   * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
   * [Samuel Albanie - Foundation Models](https://samuelalbanie.com/teaching/2022-foundation-models)
+  * [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
+  * [LLM Explained](https://www.youtube.com/@umarjamilai/videos)
 *   Blogs & Tutorials:
 
     * [https://lilianweng.github.io/posts/](https://lilianweng.github.io/posts/)
     * [https://openai.com/research](https://openai.com/research)
     * [https://karpathy.github.io/](https://karpathy.github.io/)
     * [https://huyenchip.com/blog/](https://huyenchip.com/blog/)
-    * [https://www.youtube.com/@umarjamilai/videos](https://www.youtube.com/@umarjamilai/videos)
     * [https://huggingface.co/blog](https://huggingface.co/blog)
+    * [https://github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 

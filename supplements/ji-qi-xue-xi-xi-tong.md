@@ -3,6 +3,7 @@
 ### 学习资料：
 
 * [微软亚洲研究院 - 人工智能系统](https://github.com/microsoft/AI-System)
+* [Machine Learning System Resources](https://www.bodunhu.com/blog/posts/machine-learning-system-resources/)
 * [CMU 10-414 Deep Learning Systems](https://dlsyscourse.org/lectures/)
 * [CMU 15-442 Machine Learning Systems](https://mlsyscourse.org/)
 * [Stanford MLSys Seminar](https://mlsys.stanford.edu/)
@@ -17,4 +18,5 @@
 * [Stanford CS217 Hardware Accelerators for Machine Learning](https://cs217.stanford.edu/)
 * [Cornell ECE5545 Machine Learning Hardware and Systems](https://abdelfattah-class.github.io/ece5545/sp23)
 * [UCB EE290 Hardware for Machine Learning](https://inst.eecs.berkeley.edu/\~ee290-2/sp21/)
+* [Building Blocks for AI Systems](https://github.com/HazyResearch/aisys-building-blocks)
 

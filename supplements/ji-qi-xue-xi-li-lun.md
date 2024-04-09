@@ -31,6 +31,7 @@
 * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)
 * [CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School](https://dlrl.ca/)
 * [Stanford EE274 Data Compression, Theory and Applications](https://stanforddatacompressionclass.github.io/Fall22/)
+* [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
 * [UCI High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/\~rvershyn/teaching/hdp/hdp.html)
 * [UW Sparsity and Compression Sensing](https://www.youtube.com/playlist?list=PLMrJAkhIeNNRHP5UA-gIimsXLQyHXxRty)
 

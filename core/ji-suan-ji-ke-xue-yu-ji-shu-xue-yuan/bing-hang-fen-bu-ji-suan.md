@@ -11,6 +11,7 @@ description: COMP130192
 ### 学习建议：
 
 * 参考教材：
+  * [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
   * Brendan Gregg - 性能之巅
   * 唐伟志 - 深入理解分布式系统
 * 网课：

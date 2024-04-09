@@ -38,11 +38,14 @@
 ### Databases
 
 * [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
+* [UWM CS744 Big Data Systems](https://pages.cs.wisc.edu/\~shivaram/cs744-sp24/)
 * [CMU 15-799 Self-Driving Database Management Systems](https://15799.courses.cs.cmu.edu/spring2022/)
 * [UW CSE590S Learned Data Structures for Systems](https://courses.cs.washington.edu/courses/cse590s/19au/)
 * [UCSD CSE291D Data Systems for Machine Learning](https://cseweb.ucsd.edu/classes/fa20/cse291-d/index.html)
 * [CMU Hardware Accelerated Database](https://db.cs.cmu.edu/seminar2018/)
+* [PingCAP Awesome Database Learning](https://github.com/pingcap/awesome-database-learning)
 * [TiDB Talent Plan](https://tidb.net/talent-plan)
+* [Awesome Big Data](https://github.com/newTendermint/awesome-bigdata)
 
 ### High-performance Computing
 
