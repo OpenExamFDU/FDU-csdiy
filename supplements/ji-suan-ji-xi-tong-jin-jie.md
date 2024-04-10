@@ -29,6 +29,7 @@
 * [UCB CS252A Graduate Computer Architecture](https://inst.eecs.berkeley.edu/\~cs152/sp23/)
 * [ETH Computer Architecture](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CA/)
 * [Stanford EE380 Colloquium on Computer Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+* [UIUC CS534 Architectures for Mobile and Edge Computing](https://courses.grainger.illinois.edu/cs534/sp2024/index.php)
 * [Stanford CS217 Hardware Accelerators for Machine Learning](https://cs217.stanford.edu/)
 * [Cornell ECE5545 Machine Learning Hardware and Systems](https://abdelfattah-class.github.io/ece5545/sp23)
 * [UCB EE290 Hardware for Machine Learning](https://inst.eecs.berkeley.edu/\~ee290-2/sp21/)

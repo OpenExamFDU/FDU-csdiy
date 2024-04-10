@@ -25,4 +25,5 @@ description: COMP130191
   * [Coursera Nand2Tetris](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/N2T/)（入门）
   * [UCB CS61C Great Ideas in Computer Architecture](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CS61C/)
   * [UCB CS152 Computer Architecture and Engineering](https://www.bilibili.com/video/BV1pK4y1d7ff)
+  * [UIUC CS433 Computer System Organization](https://courses.grainger.illinois.edu/cs433/sp2024/index.php)
 

@@ -3,7 +3,6 @@
 ### 学习资料：
 
 * [MIT 7.01SC Fundamentals Of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/)
-* [MIT 7.016 Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)
 * [AI for Science 101](https://ai4science101.github.io/)
 * [AI for Science Community](https://ai4sciencecommunity.github.io/)
 * [Cornell AI for Science Seminar Series](https://science.ai.cornell.edu/events/ai-for-science-seminar-series-spring-2024/)
