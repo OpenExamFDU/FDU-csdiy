@@ -19,7 +19,7 @@ description: COMP130191
   * Noam Nisan - 计算机系统要素
   * 姚永斌 - 超标量处理器设计
 * 网课：
-  * [CMU 15-213 Introduction to Computer Systems](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)
+  * [CMU 15-213 Introduction to Computer Systems (Labs ☆)](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)
   * [袁春风 – 计算机组成与体系结构](https://www.bilibili.com/video/BV1rJ411U7EC)
   * [哈工大 – 计算机组成原理](https://www.bilibili.com/video/BV1t4411e7LH)
   * [Coursera Nand2Tetris](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/N2T/)（入门）

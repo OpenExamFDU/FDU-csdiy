@@ -17,5 +17,5 @@ description: SOFT130058
 * 网课：
   * ☆ [Stanford CS110 Principles of Computer Systems](https://www.bilibili.com/video/BV1ED4y1R7RJ)
   * [MIT 6.033 Computer Systems Engineering](https://www.bilibili.com/video/BV1Ai4y1P7Fb)
-  * [上海交大 - 计算机系统工程](https://github.com/Kami-code/SE124-CSE-2021-Notes)
+  * [上海交大 - 计算机系统工程](https://github.com/Kami-code/SE124-CSE-2021-Notes) [(Labs ☆)](https://github.com/Kami-code/SE124-CSE-2021-Labs)
 

@@ -14,7 +14,7 @@ description: COMP130014
   * Alfred V. Aho - Compilers: Principles, Techniques, and Tools
   * Robert Nystrom - Crafting Interpreters
 * 网课：
-  * [Stanford CS143 Compilers](https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/)
+  * [Stanford CS143 Compiler (Labs ☆)](https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/)
   * [南京大学 - 编译原理](https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/NJU-Compilers/#\_1)
   * [上海交大 - 编译原理](https://github.com/Kami-code/SE3355-Compliers-2021-Notes)
   * [UCB CS164 Programming Languages and Compilers](https://inst.eecs.berkeley.edu/\~cs164/fa22/)

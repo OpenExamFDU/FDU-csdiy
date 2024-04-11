@@ -18,5 +18,5 @@ description: DATA130039
   * Hector Garcia-Molina - Database Systems: The Complete Book
 * 网课：
   * ☆ [UCB CS186 Introduction to Database System](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/CS186/)
-  * [CMU 15-445 Database Systems](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/15445/)
+  * [CMU 15-445 Database Systems (Labs ☆)](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/15445/)
   * [Stanford CS 245 Principles of Data-Intensive Systems](https://web.stanford.edu/class/cs245/)
