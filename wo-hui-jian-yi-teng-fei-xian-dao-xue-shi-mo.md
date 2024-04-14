@@ -21,6 +21,7 @@
 * [Harvard CS50 Introduction to Artificial Intelligence with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/)
 * [吴恩达 - AI for Everyone](https://www.bilibili.com/video/BV1yC4y127uj)
 * [吴恩达 - GenAI for Everyone](https://www.bilibili.com/video/BV11G411X7nZ)
+* [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi)
 * [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj\_g)
 * [DeepLearning.AI Courses](https://www.deeplearning.ai/courses/)
 
