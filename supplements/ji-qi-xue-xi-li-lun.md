@@ -21,6 +21,7 @@
 * [Harvard CS229r Algorithms for Big Data](https://www.bilibili.com/video/BV1af4y1Q7dG)
 * [UCB CS294 Sketching Algorithms](https://www.bilibili.com/video/BV1bK4y1Y72Z)
 * [Simons Institute Sketching and Algorithm Design](https://www.youtube.com/playlist?list=PLgKuh-lKre10-e2TWPCB0JdacFEnHHS31)
+* [MIT 6.438 Algorithms for Inference](https://ocw.mit.edu/courses/6-438-algorithms-for-inference-fall-2014/)
 * [UCB Stat240 Robust and Nonparametric Statistics](https://www.bilibili.com/video/BV1gh411o774)
 * [Gaussian Process Summer Schools](https://gpss.cc/)
 * [Mila Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)

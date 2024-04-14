@@ -65,6 +65,7 @@
 * [机器学习数学基础](supplements/ji-qi-xue-xi-shu-xue-ji-chu.md)
 * [机器学习理论](supplements/ji-qi-xue-xi-li-lun.md)
 * [机器学习系统](supplements/ji-qi-xue-xi-xi-tong.md)
+* [Computer Vision & Graphics](supplements/computer-vision-and-graphics.md)
 * [Large Language Models](supplements/large-language-models.md)
 * [AI for Science](supplements/ai-for-science.md)
 * [Robotics](supplements/robotics.md)
