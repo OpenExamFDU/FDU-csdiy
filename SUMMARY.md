@@ -69,3 +69,4 @@
 * [Large Language Models](supplements/large-language-models.md)
 * [AI for Science](supplements/ai-for-science.md)
 * [Robotics](supplements/robotics.md)
+* [Miscellaneous](supplements/miscellaneous.md)
