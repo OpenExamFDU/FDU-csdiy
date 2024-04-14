@@ -11,6 +11,7 @@
 * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)
 * [苏剑林 - 科学空间](https://spaces.ac.cn/)
 * [Lilian Weng's Blog](https://lilianweng.github.io/posts/)
+* [Building Blocks for AI Systems](https://github.com/HazyResearch/aisys-building-blocks)
 
 ### Reinforcement Learning
 
