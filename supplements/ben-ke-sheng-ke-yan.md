@@ -30,6 +30,8 @@
 
 [MIT EECS Commkit](https://mitcommlab.mit.edu/eecs/use-the-commkit/)
 
+[Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+
 [Microsoft Research - How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 
 [How to write a good research paper by Bill Freeman](https://faculty.cc.gatech.edu/\~parikh/citizenofcvpr/static/slides/freeman\_how\_to\_write\_papers.pdf)
