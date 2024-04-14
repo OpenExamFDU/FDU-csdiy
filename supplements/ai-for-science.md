@@ -28,6 +28,7 @@
 ### Quantum
 
 * [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
+* [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/\~jrl/cse599Q/)
 
 ### Neuroscience
 
