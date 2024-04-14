@@ -10,6 +10,12 @@
 
 
 
+### 本科生科研指南
+
+[彭思达 - 如何努力成为一个Top Ph.D. Student](https://github.com/pengsida/learning\_research)
+
+
+
 ### 论文阅读
 
 [How to read a paper](https://web.stanford.edu/class/cs114/reading-keshav.pdf) by Srinivasan Keshav
