@@ -25,6 +25,10 @@
 
 * [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
 
+### Math
+
+* [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit)
+
 ### Quantum
 
 * [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
