@@ -6,6 +6,7 @@
 * [文再文 - 大数据分析中的算法](http://faculty.bicmr.pku.edu.cn/\~wenzw/bigdata2023.html)
 * [International Seminar on Foundational Artificial Intelligence](https://www.fai-seminar.ac.cn/)
 * [Stanford CS229M Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
+* [Stanford STATS385 Analyses of Deep Learning](https://stats385.github.io/)
 * [NYU Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 * [Cornell CS4787 Principles of Large-Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2023fa/)
 * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)

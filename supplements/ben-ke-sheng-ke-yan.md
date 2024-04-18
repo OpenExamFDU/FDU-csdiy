@@ -6,7 +6,7 @@
 
 [Harvard CS197 AI Research Experience](https://www.cs197.seas.harvard.edu/)
 
-[Soft Skills for PhD Researchers by Dragomir Radev](https://www.cs.yale.edu/homes/radev/posts/soft-skills.pdf)
+[Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 
 
 
@@ -38,6 +38,24 @@
 
 [Tips for writing NLP papers by Vered Shwartz](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)
 
+[How to write a technical paper or a research paper by Michael Ernst](https://homes.cs.washington.edu/\~mernst/advice/write-technical-paper.html)
+
+[How to Write Research Papers by Tao Xie](https://taoxie.cs.illinois.edu/publications/writepapers.pdf)
+
+[Common Technical Writing Issues by Tao Xie](https://taoxie.cs.illinois.edu/publications/writeissues.pdf)
+
+[Paper Writing Checklist by Zheng Zhang](https://web.ece.ucsb.edu/\~zhengzhang/paper%20writing%20checklist\_v2.pdf)
+
+
+
+### 学术交流
+
+[Tips for Giving Clear Talks by Kayvon Fatahalian](https://graphics.stanford.edu/\~kayvonf/misc/cleartalktips.pdf)
+
+[Advice on Research Communications Skills - Princeton CS](https://www.cs.princeton.edu/grad/advice-on-research-communications-skills)
+
+[MIT EECS Commkit](https://mitcommlab.mit.edu/eecs/use-the-commkit/)
+
 
 
 ### 研究经验
@@ -50,9 +68,11 @@
 
 [How to do research by Bill Freeman](https://people.csail.mit.edu/billf/publications/How\_To\_Do\_Research.pdf)
 
+[Soft Skills for PhD Researchers by Dragomir Radev](https://www.cs.yale.edu/homes/radev/posts/soft-skills.pdf)
 
 
-### 读博回忆
+
+### 读博经验
 
 [李沐 - 博士这五年](https://zhuanlan.zhihu.com/p/25099638)
 
@@ -63,6 +83,8 @@
 [A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
 
 [叶小飞 - 关于我博士毕业的这件小事](https://zhuanlan.zhihu.com/p/661406115)
+
+[For NLP/AI Researchers：预测未来 规划科研](https://zhuanlan.zhihu.com/p/661903331)
 
 
 

@@ -20,4 +20,5 @@ description: COMP130137
     * [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd)
     * [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
     * [UCB CS182 Designing, Visualizing and Understanding Deep Neural Networks](https://www.bilibili.com/video/BV1PK4y1U751)
+    * [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 
