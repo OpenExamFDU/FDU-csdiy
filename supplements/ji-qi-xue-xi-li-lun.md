@@ -4,16 +4,22 @@
 
 * [张潼 - Mathematical Analysis of Machine Learning Algorithms](https://tongzhang-ml.org/lt-book/lt-book.pdf)
 * [文再文 - 大数据分析中的算法](http://faculty.bicmr.pku.edu.cn/\~wenzw/bigdata2023.html)
-* [International Seminar on Foundational Artificial Intelligence](https://www.fai-seminar.ac.cn/)
 * [Stanford CS229M Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
 * [Stanford STATS385 Analyses of Deep Learning](https://stats385.github.io/)
 * [Caltech CS159 Neural Network Theory: Learning & Generalisation](https://1five9.github.io/learning/)
 * [NYU Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
+* [NYU DA-GA3001 Modern Topics in Statistical Learning Theory](https://cecilialeiqi.github.io/teaching.html)
 * [Cornell CS4787 Principles of Large-Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2023fa/)
+
+### Blogs & Seminars
+
+* [International Seminar on Foundational Artificial Intelligence](https://www.fai-seminar.ac.cn/)
+* [NYU Math and Data Seminar](https://mad.cds.nyu.edu/)
 * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)
 * [苏剑林 - 科学空间](https://spaces.ac.cn/)
 * [Lilian Weng's Blog](https://lilianweng.github.io/posts/)
 * [Building Blocks for AI Systems](https://github.com/HazyResearch/aisys-building-blocks)
+* [RLChina 强化学习社区](http://rlchina.org/)
 
 ### Reinforcement Learning
 
@@ -23,7 +29,6 @@
 * [Cornell CS6789 Foundations of Reinforcement Learning](https://wensun.github.io/CS6789\_spring\_2023.html)
 * [Caltech CS159 Predictive Control & Model-based Reinforcement Learning](https://1five9.github.io/control/)
 * [Dimitri Bertsekas - Reinforcement Learning](https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj)
-* [RLChina 强化学习社区](http://rlchina.org/)
 
 ### Generative Models
 
