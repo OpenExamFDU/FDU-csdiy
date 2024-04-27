@@ -7,6 +7,7 @@
 * [International Seminar on Foundational Artificial Intelligence](https://www.fai-seminar.ac.cn/)
 * [Stanford CS229M Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
 * [Stanford STATS385 Analyses of Deep Learning](https://stats385.github.io/)
+* [Caltech CS159 Neural Network Theory: Learning & Generalisation](https://1five9.github.io/learning/)
 * [NYU Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 * [Cornell CS4787 Principles of Large-Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2023fa/)
 * [Princeton Machine Learning Theory Summer School](https://mlschool.princeton.edu/)
@@ -20,6 +21,7 @@
 * [UIUC CS598 Statistical Reinforcement Learning](https://nanjiang.cs.illinois.edu/cs598/)
 * [Stanford CS234 Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [Cornell CS6789 Foundations of Reinforcement Learning](https://wensun.github.io/CS6789\_spring\_2023.html)
+* [Caltech CS159 Predictive Control & Model-based Reinforcement Learning](https://1five9.github.io/control/)
 * [Dimitri Bertsekas - Reinforcement Learning](https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj)
 * [RLChina 强化学习社区](http://rlchina.org/)
 
@@ -41,6 +43,7 @@
 
 ### Algorithms
 
+* [Caltech CS159 Data-Driven Algorithm Design](https://sites.google.com/view/cs-159-spring-2020/home?authuser=0)
 * [Harvard CS229r Algorithms for Big Data](https://www.bilibili.com/video/BV1af4y1Q7dG)
 * [UCB CS294 Sketching Algorithms](https://www.bilibili.com/video/BV1bK4y1Y72Z)
 * [Simons Institute Sketching and Algorithm Design](https://www.youtube.com/playlist?list=PLgKuh-lKre10-e2TWPCB0JdacFEnHHS31)
@@ -56,6 +59,7 @@
 
 * [Simons Institute Online Learning & Convex Optimization](https://www.bilibili.com/video/BV137421N7EU)
 * [Simons Institute Geometric Methods in Optimization and Sampling](https://www.youtube.com/playlist?list=PLgKuh-lKre10-QxTUXXTQzfpEHCDlJC5\_)
+* [Caltech CS159 Online Learning, Interactive Machine Learning, and Learning from Human Feedback](http://www.yisongyue.com/courses/cs159/)
 * [EPFL MATH512 Optimization on Manifolds](https://www.bilibili.com/video/BV1Su4y1N7o3)
 * [Stanford EE274 Data Compression, Theory and Applications](https://stanforddatacompressionclass.github.io/Fall22/)
 * [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)

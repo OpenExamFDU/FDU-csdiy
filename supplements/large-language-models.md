@@ -10,6 +10,7 @@
   * [Stanford CS324 Large Language Models](https://stanford-cs324.github.io/winter2023/)
   * [Stanford CS336 Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/index.html#schedule)
   * [CMU 11-667 Large Language Models Methods and Applications](https://cmu-llms.org/)
+  * [Caltech CS159 Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024/home?authuser=0)
   * [DeepLearning.AI Courses](https://www.deeplearning.ai/short-courses/)
   * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
   * [Samuel Albanie - Foundation Models](https://samuelalbanie.com/teaching/2022-foundation-models)
