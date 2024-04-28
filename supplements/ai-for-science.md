@@ -34,6 +34,10 @@
 
 * [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit)
 
+### Astronomy
+
+* [Machine Learning for Astrophysics Repo](https://github.com/ml4astro)
+
 ### Quantum
 
 * [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
