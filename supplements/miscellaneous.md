@@ -7,4 +7,5 @@
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer/tree/master)
 * [斯坦福 CS 课程4年学习规划](https://www.mihaileric.com/posts/complete-artificial-intelligence-undergraduate-course-plan/)
 * [UCB EECS 课程修读指南](https://hkn.eecs.berkeley.edu/courseguides)
+* [上海交大IEEE试点班课程指南](https://ieee.icu/#/)
 
