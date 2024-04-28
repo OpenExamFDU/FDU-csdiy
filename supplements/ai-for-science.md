@@ -26,6 +26,10 @@
 
 * [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
 
+### Mechanics
+
+* [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
+
 ### Math
 
 * [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit)
