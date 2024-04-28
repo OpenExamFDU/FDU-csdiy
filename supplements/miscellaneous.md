@@ -10,6 +10,7 @@
 * [清华大学计算机系课程攻略](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
 * [清华大学软件学院学习指南](https://ssast-readme.github.io/)
 * [清华大学未央书院学习资料共享计划](https://weyoung-learn.github.io/)
+* [清华大学计算机系学生科协技能引导文档](https://docs.net9.org/)
 * [信息竞赛指南（OI Wiki）](https://oi-wiki.org/)
 * [上海交大IEEE试点班课程指南](https://ieee.icu/#/)
 * [中国科学技术大学大数据学院本科进阶手册](https://advancedguideforsds.gitbook.io/advancedguide)
