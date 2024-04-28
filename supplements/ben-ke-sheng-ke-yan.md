@@ -12,7 +12,7 @@
 
 ### 本科生科研指南
 
-[彭思达 - 如何努力成为一个Top Ph.D. Student](https://github.com/pengsida/learning\_research)
+[彭思达 - Learning Research](https://github.com/pengsida/learning\_research)
 
 [如何选择导师 - 交大生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi)
 
