@@ -70,3 +70,7 @@
 * [AI for Science](supplements/ai-for-science.md)
 * [Robotics](supplements/robotics.md)
 * [Miscellaneous](supplements/miscellaneous.md)
+
+***
+
+* [Feedback & Contribution](feedback-and-contribution.md)
