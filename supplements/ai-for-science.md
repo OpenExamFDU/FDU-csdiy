@@ -22,17 +22,31 @@
 * [VT CS6824 AI-powered Molecular Modeling](https://people.cs.vt.edu/dbhattacharya/courses/cs6824/)
 * [MIT 6.047 Machine Learning for Genomics](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz\_\_CdsaoKJ)
 * [MIT 6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)
+* [UCSD Drug Discovery Specialization](https://www.coursera.org/specializations/drug-development-product-management#courses)
 
-### Scientific Computing
+### Neuroscience
 
-* [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
-* [Data-Driven Modeling & Scientific Computation](https://faculty.washington.edu/kutz/KutzBook/KutzBook.html)
+* [MIT Centre for Brains + Minds + Machine Learning Hub](https://cbmm.mit.edu/learning-hub)
+* [Learn Medical Neuroscience](https://www.learnmedicalneuroscience.nl/)
+* [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
+* [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
+* [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
+* [MIT 9.40 Introduction To Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
+* [Waterloo SYDE552 Computational Neuroscience](https://www.youtube.com/playlist?list=PLX-XEf1yTMrkcpni8RJMnqGBlA9uEHlaE)
+* [UW Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)
+* [Neuromatch Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
+* [Cajal Course in Computational Neuroscience](https://training.incf.org/course/cajal-course-computational-neuroscience)
 
 ### **Dynamics Modeling & Physics**
 
 * [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 * [Steve Brunton - Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://www.databookuw.com/)
+
+### Scientific Computing
+
+* [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
+* [Data-Driven Modeling & Scientific Computation](https://faculty.washington.edu/kutz/KutzBook/KutzBook.html)
 
 ### Math
 
@@ -48,19 +62,6 @@
 * [TUM Einführung in Quantum Computing](https://tum.live/?year=2023\&term=W\&slug=EiQC\&view=3)
 * [TUM Advanced Concepts of Quantum Computing](https://tum.live/?year=2023\&term=S\&slug=ACoQC\&view=3)
 * [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/\~jrl/cse599Q/)
-
-### Neuroscience
-
-* [MIT Centre for Brains + Minds + Machine Learning Hub](https://cbmm.mit.edu/learning-hub)
-* [Learn Medical Neuroscience](https://www.learnmedicalneuroscience.nl/)
-* [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
-* [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
-* [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
-* [MIT 9.40 Introduction To Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
-* [Waterloo SYDE552 Computational Neuroscience](https://www.youtube.com/playlist?list=PLX-XEf1yTMrkcpni8RJMnqGBlA9uEHlaE)
-* [UW Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)
-* [Neuromatch Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
-* [Cajal Course in Computational Neuroscience](https://training.incf.org/course/cajal-course-computational-neuroscience)
 
 
 
