@@ -26,10 +26,13 @@
 ### Scientific Computing
 
 * [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
+* [Data-Driven Modeling & Scientific Computation](https://faculty.washington.edu/kutz/KutzBook/KutzBook.html)
 
-### Mechanics
+### **Dynamics Modeling & Physics**
 
 * [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
+* [Steve Brunton - Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
+* #### [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://www.databookuw.com/)
 
 ### Math
 
