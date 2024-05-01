@@ -1,18 +1,16 @@
 # Computer Vision & Graphics
 
-### 计算机视觉进阶
+### Advanced Computer Vision
 
-* [Cornell CS6785 Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML\_KCiC0UPzjW9BjO-IW6dqliu9O4B)
-* [HuggingFace Diffusion Models Course](https://github.com/huggingface/diffusion-models-class?tab=readme-ov-file)
 * [Tübingen Advanced Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
-* [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
 * [TUM Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ws21/)
-* [UCB CS294 Deep Unsupervised Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu\_uygrV3ut\_U)
-* [UCB CS198 Modern Computer Vision](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
-* [CMU 11-777 Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd\_vrvisMYs8A5j7sj8YW1wHhoJSmW)
 * [CMU 16-825 Learning for 3D Vision](https://learning3d.github.io/index.html)
 * [Stanford CS231A Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://web.stanford.edu/class/cs231a/index.html)
-* [UvA Geometric Deep Learning](https://uvadl2c.github.io/)
+* [Cornell CS6785 Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML\_KCiC0UPzjW9BjO-IW6dqliu9O4B)
+* [HuggingFace Diffusion Models Course](https://github.com/huggingface/diffusion-models-class?tab=readme-ov-file)
+* [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
+* [UCB CS294 Deep Unsupervised Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu\_uygrV3ut\_U)
+* [CMU 11-777 Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd\_vrvisMYs8A5j7sj8YW1wHhoJSmW)
 * [CMU 10-708 Probabilistic Graphical Models](https://www.cs.cmu.edu/\~epxing/Class/10708-20/index.html)
 * [CMU 16-726 Learning-Based Image Synthesis](https://learning-image-synthesis.github.io/sp24/)
 * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
@@ -21,7 +19,7 @@
 
 
 
-### 计算机图形学进阶
+### A
 
 * [闫令琪 - GAMES101 现代计算机图形学入门](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/GAMES101/)
 * [刘利刚 - GAMES102 几何建模与处理](https://www.bilibili.com/video/BV1NA411E7Yr)
