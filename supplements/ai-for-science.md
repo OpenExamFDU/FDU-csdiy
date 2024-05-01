@@ -8,12 +8,15 @@
 * [Caltech CS159 Representation Learning for Science](https://sites.google.com/view/cs159/home?authuser=0)
 * [Artificial Intelligence For Science: A Deep Learning Revolution by Alok Choudhary, Geoffrey C Fox, Tony Hey](https://books.google.com/books/about/Artificial\_Intelligence\_For\_Science\_A\_De.html?id=LCK\_EAAAQBAJ)
 
-### Biology
+### Biology & Chemistry
 
-* [UW Protein Design Videos](https://www.ipd.uw.edu/learn/)
-* [ML for Protein Engineering Seminar Series](https://www.youtube.com/@mlforproteinengineeringsem6420/featured)
+#### Foundations
+
 * [MIT 7.01SC Fundamentals Of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/)
 * [MIT MAS.63 How To Grow (almost) Anything](https://fab.cba.mit.edu/classes/S63.21/index.html)
+
+#### Computational & System Biology & Protein Design & Drug Discovery
+
 * [MIT 7.91J Foundations Of Computational And Systems Biology](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
 * [Stanford CS279 Computational Biology: Structure and Organization of Biomolecules and Cells](https://web.stanford.edu/class/cs279/)
 * [Stanford BIO228 Computational Structural Biology: Protein Simulation, Function and Prediction](https://web.stanford.edu/class/sbio228/)
@@ -21,30 +24,34 @@
 * [Princeton COS IW10 Molecular Machine Learning](https://www.cs.princeton.edu/courses/archive/spr24/cosIW10/)
 * [VT CS6824 AI-powered Molecular Modeling](https://people.cs.vt.edu/dbhattacharya/courses/cs6824/)
 * [MIT 6.047 Machine Learning for Genomics](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz\_\_CdsaoKJ)
-* [MIT 6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)
+* [UW Protein Design Videos](https://www.ipd.uw.edu/learn/)
+* [ML for Protein Engineering Seminar Series](https://www.youtube.com/@mlforproteinengineeringsem6420/featured)
 * [UCSD Drug Discovery Specialization](https://www.coursera.org/specializations/drug-development-product-management#courses)
 
-### Neuroscience
+#### Healthcare
+
+* [MIT 6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/)
+* [Stanford AI in Healthcare Specialization](https://www.coursera.org/specializations/ai-healthcare#courses)
+
+#### Neuroscience
 
 * [MIT Centre for Brains + Minds + Machine Learning Hub](https://cbmm.mit.edu/learning-hub)
 * [Learn Medical Neuroscience](https://www.learnmedicalneuroscience.nl/)
 * [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
 * [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
 * [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
+* [JHU Neuroscience and Neuroimaging Specialization](https://www.coursera.org/specializations/computational-neuroscience#courses)
 * [MIT 9.40 Introduction To Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
 * [Waterloo SYDE552 Computational Neuroscience](https://www.youtube.com/playlist?list=PLX-XEf1yTMrkcpni8RJMnqGBlA9uEHlaE)
 * [UW Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)
 * [Neuromatch Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
 * [Cajal Course in Computational Neuroscience](https://training.incf.org/course/cajal-course-computational-neuroscience)
 
-### **Dynamics Modeling & Physics**
+### **Physics & Computational Science**
 
 * [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 * [Steve Brunton - Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://www.databookuw.com/)
-
-### Scientific Computing
-
 * [ETH Deep Learning in Scientific Computing](https://github.com/benmoseley/DLSC-2023)
 * [Data-Driven Modeling & Scientific Computation](https://faculty.washington.edu/kutz/KutzBook/KutzBook.html)
 
