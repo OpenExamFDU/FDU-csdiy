@@ -14,6 +14,9 @@
 
 * [MIT 7.01SC Fundamentals Of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/)
 * [MIT MAS.63 How To Grow (almost) Anything](https://fab.cba.mit.edu/classes/S63.21/index.html)
+* [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
+* [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
+* [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
 
 #### Computational & System Biology & Protein Design & Drug Discovery
 
@@ -37,9 +40,6 @@
 
 * [MIT Centre for Brains + Minds + Machine Learning Hub](https://cbmm.mit.edu/learning-hub)
 * [Learn Medical Neuroscience](https://www.learnmedicalneuroscience.nl/)
-* [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
-* [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
-* [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
 * [JHU Neuroscience and Neuroimaging Specialization](https://www.coursera.org/specializations/computational-neuroscience#courses)
 * [MIT 9.40 Introduction To Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
 * [Waterloo SYDE552 Computational Neuroscience](https://www.youtube.com/playlist?list=PLX-XEf1yTMrkcpni8RJMnqGBlA9uEHlaE)
@@ -61,7 +61,12 @@
 
 ### Astronomy
 
+* [University of Arizona Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro)
+* [Rutgers Analyzing the Universe](https://www.coursera.org/learn/analyze)
+* [Yale ASTR160 Frontiers and Controversies in Astrophysics](https://oyc.yale.edu/astronomy/astr-160)
+* [University of Sydney Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)
 * [Machine Learning for Astrophysics Repo](https://github.com/ml4astro)
+* [Caltech Astronomy Public Lecture Series](https://www.youtube.com/playlist?list=PL0yNjaybQwdudycotA6z0DFK5DZaXWE1J)
 
 ### Quantum
 
