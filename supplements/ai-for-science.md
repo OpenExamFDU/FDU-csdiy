@@ -6,6 +6,7 @@
 * [AI for Science Community](https://ai4sciencecommunity.github.io/)
 * [Cornell AI for Science Seminar Series](https://science.ai.cornell.edu/events/ai-for-science-seminar-series-spring-2024/)
 * [Caltech CS159 Representation Learning for Science](https://sites.google.com/view/cs159/home?authuser=0)
+* [Artificial Intelligence For Science: A Deep Learning Revolution by Alok Choudhary, Geoffrey C Fox, Tony Hey](https://books.google.com/books/about/Artificial\_Intelligence\_For\_Science\_A\_De.html?id=LCK\_EAAAQBAJ)
 
 ### Biology
 
