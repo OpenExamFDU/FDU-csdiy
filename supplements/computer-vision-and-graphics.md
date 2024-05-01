@@ -17,9 +17,7 @@
 * [UCB CS287 Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/)
 * [CMU 16-831 Introduction to Robot Learning](https://16-831-s24.github.io/)
 
-
-
-### A
+### Advanced Computer Graphics
 
 * [闫令琪 - GAMES101 现代计算机图形学入门](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/GAMES101/)
 * [刘利刚 - GAMES102 几何建模与处理](https://www.bilibili.com/video/BV1NA411E7Yr)
