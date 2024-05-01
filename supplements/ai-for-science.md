@@ -32,7 +32,7 @@
 
 * [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 * [Steve Brunton - Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
-* #### [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://www.databookuw.com/)
+* [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://www.databookuw.com/)
 
 ### Math
 
