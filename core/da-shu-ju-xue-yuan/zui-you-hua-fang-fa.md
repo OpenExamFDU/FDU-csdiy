@@ -14,6 +14,7 @@ description: DATA130026
   * ☆ Stephen Boyd - Convex Optimization
   * Edwin K. P. Chong - 最优化导论
   * 文再文 - 最优化建模、算法与理论
+  * 温斯顿 - 运筹学 : 应用范例与解法
 *   网课：
 
     * ☆ [Stanford EE364a/b Convex Optimization I/II](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex/)

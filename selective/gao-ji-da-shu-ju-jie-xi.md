@@ -11,7 +11,7 @@ description: DATA130014
 ### 学习建议：
 
 * 教材：
-  * ☆ Tathagata Das - Learning Spark: Lightning-Fast Data Analytics
+  * Tathagata Das - Learning Spark: Lightning-Fast Data Analytics
   * Martin Kleppmann - 数据密集型应用系统设计
   * Neha Narkhede - Kafka: The Definitive Guide
   * Jeff Carpenter - Cassandra: The Definitive Guide
@@ -20,5 +20,5 @@ description: DATA130014
   * Brendan Gregg - 性能之巅
   * 许利杰 - 大数据处理框架Apache Spark 设计与实现
 * 网课：
-  * [UWM CS544 Introduction to Big Data Systems](https://tyler.caraza-harter.com/cs544/s23/syllabus.html)
+  * ☆ [UW-Madison CS544 Introduction to Big Data Systems](https://tyler.caraza-harter.com/cs544/s23/syllabus.html)
   * [Stanford CS246 Mining Massive Data Sets](https://www.bilibili.com/video/BV13x411o7Qg/)
