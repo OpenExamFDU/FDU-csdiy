@@ -6,6 +6,7 @@
 * [AI for Science Community](https://ai4sciencecommunity.github.io/)
 * [AI4Sci Education Organization](https://ai4sciedu.github.io/)
 * [Cornell AI for Science Seminar Series](https://science.ai.cornell.edu/events/ai-for-science-seminar-series-spring-2024/)
+* [Microsoft Ai4Science Community](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/overview/)
 * [Caltech CS159 Representation Learning for Science](https://sites.google.com/view/cs159/home?authuser=0)
 * [Artificial Intelligence For Science: A Deep Learning Revolution by Alok Choudhary, Geoffrey C Fox, Tony Hey](https://books.google.com/books/about/Artificial\_Intelligence\_For\_Science\_A\_De.html?id=LCK\_EAAAQBAJ)
 
@@ -50,6 +51,7 @@
 
 ### **Physics & Computational Science**
 
+* [Machine Learning and Physical Sciences Workshops](https://ml4physicalsciences.github.io/2023/)
 * [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 * [Steve Brunton - Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems and Control](https://www.databookuw.com/)
