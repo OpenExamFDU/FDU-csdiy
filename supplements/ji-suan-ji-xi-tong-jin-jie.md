@@ -15,6 +15,7 @@
 * [Stanford CS110L Safety in System Programming](https://reberhardt.com/cs110l/spring-2020/)
 * [MIT 6.858 Computer System Security](https://csdiy.wiki/%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8/MIT6.858/)
 * [UCB CS161 Computer Security](https://csdiy.wiki/%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8/CS161/)
+* [Stanford Graduate Cryptography](https://crypto.stanford.edu/\~dabo/courses/OnlineCrypto/)
 * [Tübingen Trustworthy Machine Learning](https://www.youtube.com/watch?v=ob7KTM2llNc\&list=PL05umP7R6ij0FDHxle4CQLkzOfN-PAt7b)
 * [UCB CS294-267 Understanding Large Language Models: Foundations and Safety](https://rdi.berkeley.edu/understanding\_llms/s24)
 * [UCB CS294-131 Trustworthy Deep Learning](https://berkeley-deep-learning.github.io/cs294-131-s19/)
