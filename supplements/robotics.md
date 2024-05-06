@@ -15,6 +15,7 @@
 * [UMich Robo501 Mathematics for Robotics](https://github.com/michiganrobotics/rob501)
 * [UMich Robo502 Programming for Robotics](https://robotics.umich.edu/academics/courses/online-courses/rob502-f20/)
 * [UMich Robo530 Mobile Robotics](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
+* [EPFL MICRO462 Learning for Adaptive and Reactive Robot Control](https://www.epfl.ch/labs/lasa/mit-press-book-learning/)
 
 ### Learning
 
