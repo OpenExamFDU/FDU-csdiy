@@ -54,6 +54,7 @@
 * [Simons Institute Sketching and Algorithm Design](https://www.youtube.com/playlist?list=PLgKuh-lKre10-e2TWPCB0JdacFEnHHS31)
 * [UW CS422 Toolkit for Modern Algorithms](https://homes.cs.washington.edu/\~jrl/teaching/cse422wi24/)
 * [UW CS599 Analytic and Geometric Methods in TCS](https://homes.cs.washington.edu/\~jrl/cse599wi23/)
+* [CMU 15-751 CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv\_EHH9wtH6pnX)
 
 ### Causal Inference
 
