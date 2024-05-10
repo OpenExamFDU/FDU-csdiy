@@ -6,6 +6,7 @@
 * [TUM Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ws21/)
 * [CMU 16-825 Learning for 3D Vision](https://learning3d.github.io/index.html)
 * [Stanford CS231A Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://web.stanford.edu/class/cs231a/index.html)
+* [Stanford CS236 Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Cornell CS6785 Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML\_KCiC0UPzjW9BjO-IW6dqliu9O4B)
 * [HuggingFace Diffusion Models Course](https://github.com/huggingface/diffusion-models-class?tab=readme-ov-file)
 * [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)

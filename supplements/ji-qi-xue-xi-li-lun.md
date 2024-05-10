@@ -32,6 +32,7 @@
 
 ### Generative Models
 
+* [Stanford CS236 Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Cornell CS6785 Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML\_KCiC0UPzjW9BjO-IW6dqliu9O4B)
 * [CMU 10-708 Probabilistic Graphical Models](https://www.cs.cmu.edu/\~epxing/Class/10708-20/index.html)
 * [UW CS599 Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au/)
