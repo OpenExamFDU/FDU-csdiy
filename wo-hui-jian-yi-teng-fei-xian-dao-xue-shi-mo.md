@@ -2,13 +2,15 @@
 
 ### 计算机科学科普
 
-* [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th)
 * ☆ [Harvard CS50 Introduction to Computer Science](https://www.bilibili.com/video/BV1HW4y1A7Yi)
+* [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th)
+* [Brian W. Kernighan - 普林斯顿计算机公开课](https://book.douban.com/subject/36346586/)
+* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 ### 编程入门
 
-* [Harvard CS50P Introduction to Programming with Python](https://www.bilibili.com/video/BV1NK411x7x1)
 * ☆ [UCB CS61A Structure and Interpretation of Computer Programs](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/)
+* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) / [廖雪峰 - Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [Harvard CS50W Web Programming with Python and JavaScript](https://www.bilibili.com/video/BV1p94y1u76n)
 
 ### 工具入门
@@ -18,7 +20,7 @@
 
 ### 人工智能科普
 
-* [Harvard CS50 Introduction to Artificial Intelligence with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/)
+* ☆ [Harvard CS50 Introduction to Artificial Intelligence with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/)
 * [吴恩达 - AI for Everyone](https://www.bilibili.com/video/BV1yC4y127uj)
 * [吴恩达 - GenAI for Everyone](https://www.bilibili.com/video/BV11G411X7nZ)
 * [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi)
