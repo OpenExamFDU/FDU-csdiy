@@ -61,6 +61,7 @@
 
 * [Mila Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
 * [UCI CS295 Causal Reasoning](https://ics.uci.edu/\~dechter/courses/ics-295cr/spring-2021/)
+* [UPenn A Crash Course in Causality: Inferring Causal Effects from Observational Data](https://www.coursera.org/learn/crash-course-in-causality#modules)
 
 ### Others
 
