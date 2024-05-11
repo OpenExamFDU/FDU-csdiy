@@ -4,19 +4,18 @@
 
 * [Tübingen Advanced Computer Vision](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
 * [TUM Advanced Deep Learning for Computer vision](https://dvl.in.tum.de/teaching/adl4cv-ws21/)
-* [CMU 16-825 Learning for 3D Vision](https://learning3d.github.io/index.html)
-* [Stanford CS231A Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://web.stanford.edu/class/cs231a/index.html)
 * [Stanford CS236 Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8)
 * [Cornell CS6785 Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML\_KCiC0UPzjW9BjO-IW6dqliu9O4B)
-* [HuggingFace Diffusion Models Course](https://github.com/huggingface/diffusion-models-class?tab=readme-ov-file)
-* [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
-* [UCB CS294 Deep Unsupervised Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu\_uygrV3ut\_U)
-* [CMU 11-777 Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd\_vrvisMYs8A5j7sj8YW1wHhoJSmW)
-* [CMU 10-708 Probabilistic Graphical Models](https://www.cs.cmu.edu/\~epxing/Class/10708-20/index.html)
-* [CMU 16-726 Learning-Based Image Synthesis](https://learning-image-synthesis.github.io/sp24/)
 * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
+* [UCB CS294 Deep Unsupervised Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu\_uygrV3ut\_U)
+* [HuggingFace Diffusion Models Course](https://github.com/huggingface/diffusion-models-class?tab=readme-ov-file)
+* [CMU 11-777 Multimodal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2023/)
+* [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
 * [UCB CS287 Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/)
 * [CMU 16-831 Introduction to Robot Learning](https://16-831-s24.github.io/)
+* [CMU 16-825 Learning for 3D Vision](https://learning3d.github.io/index.html)
+* [Stanford CS231A Computer Vision, From 3D Perception to 3D Reconstruction and beyond](https://web.stanford.edu/class/cs231a/index.html)
+* [CMU 16-726 Learning-Based Image Synthesis](https://learning-image-synthesis.github.io/sp24/)
 
 ### Advanced Computer Graphics
 
