@@ -61,7 +61,6 @@
 
 * [本科生科研](supplements/ben-ke-sheng-ke-yan.md)
 * [出国留学](supplements/chu-guo-liu-xue.md)
-* [Web Development](supplements/web-development.md)
 * [计算机系统进阶](supplements/ji-suan-ji-xi-tong-jin-jie.md)
 * [机器学习数学基础](supplements/ji-qi-xue-xi-shu-xue-ji-chu.md)
 * [机器学习理论](supplements/ji-qi-xue-xi-li-lun.md)
