@@ -9,9 +9,15 @@
 
 ### 编程入门
 
+#### Python语言
+
+* [廖雪峰 - Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+* [Python for Everybody](https://www.py4e.com/lessons)
+
+#### 程序设计
+
+* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * ☆ [UCB CS61A Structure and Interpretation of Computer Programs](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/)
-* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) / [廖雪峰 - Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
-* [Harvard CS50W Web Programming with Python and JavaScript](https://www.bilibili.com/video/BV1p94y1u76n)
 
 ### 工具入门
 
