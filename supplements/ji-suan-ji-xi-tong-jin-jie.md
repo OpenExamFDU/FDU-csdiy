@@ -4,6 +4,7 @@
 
 * [MIT 6.824 Distributed System](https://csdiy.wiki/%E5%B9%B6%E8%A1%8C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/MIT6.824/)
 * [Martin Kleppmann - Distributed Systems](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv\_ohr\_HdUFe97RItdiB)
+* [Cornell CS5412 Topics in Cloud Computing](https://www.cs.cornell.edu/courses/cs5412/2022sp/)
 * [UIUC CS425 Distributed Systems](https://courses.physics.illinois.edu/cs425/fa2020/index.html)
 * [UW-Madison CS736 Advanced Operating Systems](https://blog.ruipan.xyz/earlier-readings-and-notes/index)
 * [UCB CS262 Advanced Topics in Computer Systems](https://www.bilibili.com/video/BV1bG4y1b7eR)
