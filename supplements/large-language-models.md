@@ -30,7 +30,9 @@
 * [https://www.artfintel.com/](https://www.artfintel.com/)
 * [https://mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 * [https://www.deeplearning.ai/short-courses/](https://www.deeplearning.ai/short-courses/)
+* [https://www.youtube.com/@twimlai/videos](https://www.youtube.com/@twimlai/videos)
 * [https://huggingface.co/blog](https://huggingface.co/blog)
 * [https://openai.com/research](https://openai.com/research)
 * [https://ai.meta.com/blog/](https://ai.meta.com/blog/)
+* [https://deepmind.google/research/](https://deepmind.google/research/publications/)
 
