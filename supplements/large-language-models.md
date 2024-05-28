@@ -28,6 +28,7 @@
 * [https://www.interconnects.ai/](https://www.interconnects.ai/)
 * [https://cameronrwolfe.substack.com/](https://cameronrwolfe.substack.com/)
 * [https://www.artfintel.com/](https://www.artfintel.com/)
+* [https://mlabonne.github.io/blog/](https://mlabonne.github.io/blog/)
 * [https://www.deeplearning.ai/short-courses/](https://www.deeplearning.ai/short-courses/)
 * [https://huggingface.co/blog](https://huggingface.co/blog)
 * [https://openai.com/research](https://openai.com/research)
