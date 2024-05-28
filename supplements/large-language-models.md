@@ -15,14 +15,21 @@
 * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
 * [Samuel Albanie - Foundation Models](https://samuelalbanie.com/teaching/2022-foundation-models)
 * [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
-* [LLM Explained](https://www.youtube.com/@umarjamilai/videos)
 
 ### Blogs & Tutorials
 
+* [https://github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 * [https://lilianweng.github.io/posts/](https://lilianweng.github.io/posts/)
-* [https://openai.com/research](https://openai.com/research)
 * [https://karpathy.github.io/](https://karpathy.github.io/)
 * [https://huyenchip.com/blog/](https://huyenchip.com/blog/)
+* [https://www.youtube.com/@umarjamilai/videos](https://www.youtube.com/@umarjamilai/videos)
+* [https://magazine.sebastianraschka.com/](https://magazine.sebastianraschka.com/)
+* [https://jalammar.github.io/](https://jalammar.github.io/)
+* [https://www.interconnects.ai/](https://www.interconnects.ai/)
+* [https://cameronrwolfe.substack.com/](https://cameronrwolfe.substack.com/)
+* [https://www.artfintel.com/](https://www.artfintel.com/)
+* [https://www.deeplearning.ai/short-courses/](https://www.deeplearning.ai/short-courses/)
 * [https://huggingface.co/blog](https://huggingface.co/blog)
-* [https://github.com/Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+* [https://openai.com/research](https://openai.com/research)
+* [https://ai.meta.com/blog/](https://ai.meta.com/blog/)
 

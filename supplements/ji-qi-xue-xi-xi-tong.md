@@ -49,6 +49,7 @@
 * [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 * [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr\_intro.html)
+* [Mastering LLM Techniques: Inference Optimization](https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization)
 * [LLM Inference Series: 1. Introduction](https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d)
 * [LLM Inference Series: 2. The two-phase process behind LLMs’ responses](https://medium.com/@plienhar/llm-inference-series-2-the-two-phase-process-behind-llms-responses-1ff1ff021cd5)
 * [LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)
@@ -60,3 +61,4 @@
 * [Where do LLMs spend their FLOPS?](https://www.artfintel.com/p/where-do-llms-spend-their-flops)
 * [剖析GPT推断中的批处理效应](https://abcdabcd987.com/2023/05/13/transformer-batching/)
 * [A100/H100 太贵，何不用 4090？](https://zhuanlan.zhihu.com/p/655402388)
+
