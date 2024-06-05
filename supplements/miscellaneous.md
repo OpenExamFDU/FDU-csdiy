@@ -14,6 +14,7 @@
 * [清华大学计算机系学生科协技能引导文档](https://docs.net9.org/)
 * [信息竞赛指南（OI Wiki）](https://oi-wiki.org/)
 * [上海交大IEEE试点班课程指南](https://ieee.icu/#/)
+* [浙江大学图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
 * [中国科学技术大学大数据学院本科进阶手册](https://advancedguideforsds.gitbook.io/advancedguide)
 * [四川大学计软网生存手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
 
