@@ -1,5 +1,9 @@
 # Large Language Models
 
+### Guides
+
+* [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io)
+
 ### Lectures
 
 * [Stanford CS224N Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
