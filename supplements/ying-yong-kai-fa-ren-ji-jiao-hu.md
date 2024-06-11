@@ -4,9 +4,10 @@
 
 * [MIT Web Development Crash Course](https://csdiy.wiki/Web%E5%BC%80%E5%8F%91/mitweb/#\_1)
 * [Stanford CS142 Web Development](https://web.stanford.edu/class/cs142/index.html)
+* [Deep Dive Into Modern Web Development - Full Stack Open](https://fullstackopen.com/zh/)
 * [Stanford CS193P Developing Apps for iOS](https://cs193p.sites.stanford.edu/2023)
 * [Stanford CS193A Andorid Apps Development](https://www.youtube.com/playlist?list=PL-h0BZdG\_K4n0ZKI7865AbTSVnr3QNmPj)
-* [Deep Dive Into Modern Web Development - Full Stack Open](https://fullstackopen.com/zh/)
+* [Udemy IOS13 & Swift - The Complete iOS App Development Bootcamp](https://www.bilibili.com/video/BV12F4113794/)
 
 ### Human-Computer Interaction
 
