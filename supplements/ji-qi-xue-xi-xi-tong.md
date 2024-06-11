@@ -4,6 +4,7 @@
 
 * [微软亚洲研究院 - 人工智能系统](https://github.com/microsoft/AI-System)
 * [CMU 10-414 Deep Learning Systems](https://dlsyscourse.org/lectures/)
+* 刘铁岩 《分布式机器学习》
 
 ### Seminars & Collections
 
