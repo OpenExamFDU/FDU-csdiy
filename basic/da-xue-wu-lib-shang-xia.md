@@ -11,7 +11,7 @@ description: PHYS120013 / PHYS120014
 ### 学习建议：
 
 * 参考教材
-  * 哈里德大学物理学（上/下）
+  * [哈里德大学物理学（上/下）](https://book.douban.com/subject/3880298/)
 * 网课
   * ☆ [物理系的允文君 - 大学物理](https://space.bilibili.com/52663683/channel/series)
 

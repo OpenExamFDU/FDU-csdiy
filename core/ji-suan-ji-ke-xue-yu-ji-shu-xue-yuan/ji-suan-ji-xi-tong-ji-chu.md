@@ -13,10 +13,10 @@ description: COMP130201
 ### 学习建议：
 
 * 教材：
-  * ☆ Randal E.Bryant - 深入理解计算机系统
-  * David A.Patterson - 计算机组成与设计：硬件软件接口
-  * 袁春风 – 计算机系统基础
-  * Noam Nisan - 计算机系统要素
+  * ☆ [Randal E.Bryant - 深入理解计算机系统](https://book.douban.com/subject/26912767/)
+  * [David A.Patterson - 计算机组成与设计：硬件软件接口](https://book.douban.com/subject/10441748/)
+  * [袁春风 – 计算机系统基础](https://book.douban.com/subject/30295940/)
+  * [Noam Nisan - 计算机系统要素](https://book.douban.com/subject/1998341/)
 *   网课：
 
     * ☆ [CMU 15-213 Introduction to Computer Systems (Labs ☆)](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CSAPP/)

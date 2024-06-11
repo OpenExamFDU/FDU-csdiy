@@ -11,8 +11,9 @@ description: COMP130149
 ### 学习建议：
 
 * 参考教材：
-  * Kenneth H.Rosen - 离散数学及其应用
-  * 邦迪–图论及其应用
+  * [Kenneth H.Rosen - 离散数学及其应用](https://book.douban.com/subject/2130743/)
+  * [王义和 - 离散数学引论](https://book.douban.com/subject/1620641/)
+  * [邦迪 - 图论及其应用](https://book.douban.com/subject/3177988/)
 *   网课：
 
     * ☆ [哈工大 – 集合与图论](https://www.bilibili.com/video/BV1TK4y177Si)

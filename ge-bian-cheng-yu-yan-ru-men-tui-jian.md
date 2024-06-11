@@ -7,13 +7,13 @@
 
 ### C语言
 
-* 教材：K. N. King - C语言程序设计：现代方法
+* 教材：[K. N. King - C语言程序设计：现代方法](https://book.douban.com/subject/4279678/)
 * 课程：[翁恺 - C语言程序设计](https://www.bilibili.com/video/BV1dr4y1n7vA)
 
 ### C++
 
-* 教材：Stanley B·Lippman - Essential C++
-* 教材：Scott Meyers - Effective C++
+* 教材：[Stanley B·Lippman - Essential C++](https://book.douban.com/subject/24868427/)
+* 教材：[Scott Meyers - Effective C++](https://book.douban.com/subject/5387403/)
 
 ### Java
 
