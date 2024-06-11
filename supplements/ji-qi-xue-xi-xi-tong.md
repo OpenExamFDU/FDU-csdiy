@@ -22,7 +22,8 @@
 
 * [Stanford CS217 Hardware Accelerators for Machine Learning](https://cs217.stanford.edu/)
 * [Cornell ECE5545 Machine Learning Hardware and Systems](https://abdelfattah-class.github.io/ece5545/sp23)
-* [UCB EE290 Hardware for Machine Learning](https://inst.eecs.berkeley.edu/\~ee290-2/sp21/)
+* [UCB EE290 Hardware for Machine Learning](https://www.bilibili.com/video/BV1hi4y1A7BC)
+* [MIT 6.5930 Hardware Architecture for Deep Learning](http://csg.csail.mit.edu/6.5930/info.html)
 
 ### Efficient Deep Learning
 

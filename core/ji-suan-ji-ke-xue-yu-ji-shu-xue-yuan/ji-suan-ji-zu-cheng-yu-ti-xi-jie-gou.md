@@ -23,7 +23,7 @@ description: COMP130191
   * [袁春风 – 计算机组成与体系结构](https://www.bilibili.com/video/BV1rJ411U7EC)
   * [哈工大 – 计算机组成原理](https://www.bilibili.com/video/BV1t4411e7LH)
   * [Coursera Nand2Tetris](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/N2T/)（入门）
-  * [UCB CS61C Great Ideas in Computer Architecture](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/CS61C/)
+  * [UCB CS61C Great Ideas in Computer Architecture](https://cs61c.org/sp24/)
   * [UCB CS152 Computer Architecture and Engineering](https://www.bilibili.com/video/BV1pK4y1d7ff)
   * [UIUC CS433 Computer System Organization](https://courses.grainger.illinois.edu/cs433/sp2024/index.php)
 
