@@ -87,7 +87,7 @@
 ### Job Interviews
 
 * [Gayle Laakmann McDowell - 程序员面试金典](https://book.douban.com/subject/34813624/)
-*
+* [何海涛 - 剑指Offer：名企面试官精讲典型编程题](https://book.douban.com/subject/27008702/)
 
 ### Trading & Finance
 
