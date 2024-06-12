@@ -11,10 +11,10 @@ description: DATA130019
 ### 学习建议：
 
 * 教材
-  * Sheldon M. Ross - 应用随机过程
-  * Sheldon M. Ross - 随机过程
-  * Papoulis - 概率、随机变量与随机过程
-  * 温斯顿 - 运筹学：概率模型应用范例与解法
+  * [Sheldon M. Ross - 应用随机过程](https://book.douban.com/subject/26761202/)
+  * [Sheldon M. Ross - 随机过程](https://book.douban.com/subject/24854825/)
+  * [Papoulis - 概率、随机变量与随机过程](https://book.douban.com/subject/1188524/)
+  * [温斯顿 - 运筹学：概率模型应用范例与解法](https://book.douban.com/subject/1882393/)
 *   网课
 
     * [清华大学 - 随机过程](https://www.bilibili.com/video/BV18p4y1u7NP)

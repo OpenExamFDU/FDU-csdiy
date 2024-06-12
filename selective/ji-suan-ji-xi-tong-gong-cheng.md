@@ -13,9 +13,9 @@ description: SOFT130058
 ### 学习建议：
 
 * 教材：
-  * ☆ M. Frans Kaashoek - Principles of Computer System Design
-  * Martin Kleppmann - 数据密集型应用系统设计
-  * 唐伟志 - 深入理解分布式系统
+  * ☆ [M. Frans Kaashoek - Principles of Computer System Design](https://book.douban.com/subject/3707841/)
+  * [Martin Kleppmann - 数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
+  * [唐伟志 - 深入理解分布式系统](https://book.douban.com/subject/35794814/)
 * 网课：
   * ☆ [Stanford CS110 Principles of Computer Systems](https://www.bilibili.com/video/BV1ED4y1R7RJ)
   * [MIT 6.033 Computer Systems Engineering](https://www.bilibili.com/video/BV1Ai4y1P7Fb)

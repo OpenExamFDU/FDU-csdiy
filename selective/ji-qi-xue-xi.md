@@ -13,10 +13,10 @@ description: COMP130172
 ### 学习建议：
 
 * 教材：
-  * ☆ 李航 - 统计学习方法
+  * ☆ [李航 - 统计学习方法](https://book.douban.com/subject/33437381/)
+  * [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
 *   网课：
 
     * [Stanford CS229 Introduction to Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CS229/)
-    * [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd)
-    * [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+    * ☆ [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd)
 
