@@ -13,9 +13,9 @@ description: COMP130110
 ### 学习建议：
 
 * 教材：
-  * ☆ Remzi Arpaci-Dusseau - Operating Systems Three Easy Pieces
-  * Thomas Anderson - Operating Systems Principles and Practice
-  * 陈海波 - 现代操作系统
+  * ☆ [Remzi Arpaci-Dusseau - Operating Systems Three Easy Pieces](https://book.douban.com/subject/33463930/)
+  * [Thomas Anderson - Operating Systems Principles and Practice](https://book.douban.com/subject/25984145/)
+  * [陈海波 - 现代操作系统](https://book.douban.com/subject/35208251/)
 *   网课：
 
     * ☆ [MIT 6.S081 Operating System Engineering (Labs ☆) ](https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/)

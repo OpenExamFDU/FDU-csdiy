@@ -11,9 +11,10 @@ description: COMP130011
 ### 学习建议：
 
 * 教材：
-  * ☆ Thomas H.Cormen - 算法导论
-  * Tim Roughgarden - 算法详解
-  * Steven Skiena - The Algorithm Design Manual
+  * ☆ [Thomas H.Cormen - 算法导论](https://book.douban.com/subject/20432061/)
+  * [Jon Kleinberg - 算法设计](https://book.douban.com/subject/1475870/)
+  * [Steven Skiena - The Algorithm Design Manual](https://book.douban.com/subject/4048566/)
+  * [Tim Roughgarden - 算法详解](https://book.douban.com/subject/27176836/)
 *   网课：
 
     * ☆ [MIT 6.046 Design and Analysis of Algorithms](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS170/)

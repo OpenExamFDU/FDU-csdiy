@@ -23,9 +23,14 @@
 ### Rust
 
 * 教程：[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-* 课程：[Stanford CS110L Safety in Systems Programming](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Rust/CS110L/)
+* 教材：[Jim Blandy - Programming Rust](https://book.douban.com/subject/34973905/)
 
 ### Go
 
 * 教程：[A Tour of Go](https://go.dev/tour/list)
+
+### 系统编程
+
+* 教材：[Bruce Molay - Unix/Linux编程实践教程](https://book.douban.com/subject/1219329/)
+* 教材：[Michael Kerrisk - Linux/UNIX系统编程手册](https://book.douban.com/subject/25809330/)
 

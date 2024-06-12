@@ -13,8 +13,8 @@ description: COMP130014
 ### 学习建议：
 
 * 教材：
-  * Alfred V. Aho - Compilers: Principles, Techniques, and Tools
-  * Robert Nystrom - Crafting Interpreters
+  * [Alfred V. Aho - Compilers: Principles, Techniques, and Tools](https://book.douban.com/subject/3296317/)
+  * [Robert Nystrom - Crafting Interpreters](https://book.douban.com/subject/35548379/)
 * 网课：
   * [Stanford CS143 Compiler (Labs ☆)](https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/CS143/)
   * [南京大学 - 编译原理](https://csdiy.wiki/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/NJU-Compilers/#\_1)
