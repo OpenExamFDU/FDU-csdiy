@@ -60,6 +60,7 @@
 
 ## 补充内容 <a href="#supplements" id="supplements"></a>
 
+* [其他好书推荐](supplements/qi-ta-hao-shu-tui-jian.md)
 * [本科生科研](supplements/ben-ke-sheng-ke-yan.md)
 * [出国留学](supplements/chu-guo-liu-xue.md)
 * [计算机系统进阶](supplements/ji-suan-ji-xi-tong-jin-jie.md)
