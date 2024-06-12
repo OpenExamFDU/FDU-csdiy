@@ -14,7 +14,7 @@ description: DATA130019
   * Sheldon M. Ross - 应用随机过程
   * Sheldon M. Ross - 随机过程
   * Papoulis - 概率、随机变量与随机过程
-  * 温斯顿 - 运筹学 : 应用范例与解法
+  * 温斯顿 - 运筹学：概率模型应用范例与解法
 *   网课
 
     * [清华大学 - 随机过程](https://www.bilibili.com/video/BV18p4y1u7NP)
