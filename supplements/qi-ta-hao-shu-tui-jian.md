@@ -7,6 +7,7 @@
 * [Yale N. Patt - 计算机系统概论](https://book.douban.com/subject/2185076/)
 * [Behrouz Forouzan - 计算机科学导论](https://book.douban.com/subject/26726452/)
 * [Charles Petzold - 编码：隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/)
+* [吴军 - 数学之美](https://book.douban.com/subject/10750155/)
 
 ### C++ Programming
 
@@ -18,10 +19,6 @@
 * [Luciano Ramalho - 流畅的Python](https://book.douban.com/subject/27028517/)
 * [Brett Slatkin - Effective Python](https://book.douban.com/subject/35334595/)
 * [崔庆才 - Python 3网络爬虫开发实战](https://book.douban.com/subject/30175598/)
-
-### Java Programming
-
-* [Joshua Bloch - Java并发编程实战](https://book.douban.com/subject/10484692/)
 
 ### Go Programming
 
@@ -51,6 +48,7 @@
 * [Tom Stuart - 计算的本质](https://book.douban.com/subject/26148763/)
 * [Cristopher Moore - The Nature of Computation](https://book.douban.com/subject/4394513/)
 * [Donald Knuth - Concrete Mathematics: A Foundation for Computer Science](https://book.douban.com/subject/21323941/)
+* [David MacKay - Information Theory, Inference and Learning Algorithms](https://book.douban.com/subject/1789534/)
 
 ### Systems & Architecture
 
@@ -63,6 +61,8 @@
 * [Matt Housley - Fundamentals of Data Engineering](https://book.douban.com/subject/35810423/)
 * [Marko Lukša - Kubernetes in Action](https://book.douban.com/subject/30418855/)
 * [张磊 - 深入剖析Kubernetes](https://book.douban.com/subject/35424872/)
+* [黄健宏 - Redis设计与实现](https://book.douban.com/subject/25900156/)
+* [朱忠华 - 深入理解Kafka：核心设计与实践原理](https://book.douban.com/subject/30437872/)
 
 ### Reinforcement Learning
 
@@ -89,6 +89,14 @@
 
 * [Gayle Laakmann McDowell - 程序员面试金典](https://book.douban.com/subject/34813624/)
 * [何海涛 - 剑指Offer：名企面试官精讲典型编程题](https://book.douban.com/subject/27008702/)
+* [诸葛越 - 百面机器学习](https://book.douban.com/subject/30285146/)
+
+### Career Development
+
+* [俞甲子 - 程序员的自我修养](https://book.douban.com/subject/3652388/)
+* [David Thomas - 程序员修炼之道](https://book.douban.com/subject/35006892/)
+* [Camille Fournier - 技术为径](https://book.douban.com/subject/36432906/)
+* [吴军 - 浪潮之巅](https://book.douban.com/subject/33474750/)
 
 ### Trading & Finance
 
