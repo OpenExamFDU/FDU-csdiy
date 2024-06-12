@@ -41,6 +41,7 @@
 
 * [Brain Kernighan - 程序设计实践](https://book.douban.com/subject/26712028/)
 * [Robert C. Martin - 敏捷软件开发](https://book.douban.com/subject/1140457/)
+* [Erich Gamma - 设计模式：可复用面向对象软件的基础](https://book.douban.com/subject/1052241/)
 * [Chris Richardson - 微服务架构设计模式](https://book.douban.com/subject/33425123/)
 * [John Ousterhout - A Philosophy of Software Design](https://book.douban.com/subject/30218046/)
 * [Martin Fowler - 重构：改善既有代码的设计](https://book.douban.com/subject/30468597/)
