@@ -19,6 +19,7 @@
 * [Luciano Ramalho - 流畅的Python](https://book.douban.com/subject/27028517/)
 * [Brett Slatkin - Effective Python](https://book.douban.com/subject/35334595/)
 * [崔庆才 - Python 3网络爬虫开发实战](https://book.douban.com/subject/30175598/)
+* [Jake VanderPlas - Python数据科学手册](https://book.douban.com/subject/27667378/)
 
 ### Go Programming
 
