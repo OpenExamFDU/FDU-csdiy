@@ -13,12 +13,11 @@ description: DATA130005
 ### 学习建议：
 
 * 教材：
-  * ☆ Larry Wasserman - All of Statistics
-  * Trevor Hastie - 统计学习导论
-  * Joseph K.Blitzstein - 概率论导论
-  * Dimitri P. Bertsekas - 概率导论
-  * 茆诗松 - 概率论与数理统计教程
-  * Steven J. Miller - 普林斯顿概率论读本
+  * ☆ [Larry Wasserman - All of Statistics](https://book.douban.com/subject/2285151/)
+  * [Richard Larsen - 数理统计及其应用](https://book.douban.com/subject/33431537/)
+  * [Joseph K.Blitzstein - 概率论导论](https://book.douban.com/subject/31195286/)
+  * [茆诗松 - 概率论与数理统计教程](https://book.douban.com/subject/34897672/)
+  * [Steven J. Miller - 普林斯顿概率论读本](https://book.douban.com/subject/35193606/)
 * 网课：
   * ☆ [MIT 18.650 Fundamentals of Statistics](https://www.bilibili.com/video/BV1hp4y1i77w)
   * [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1LE411B7ir)

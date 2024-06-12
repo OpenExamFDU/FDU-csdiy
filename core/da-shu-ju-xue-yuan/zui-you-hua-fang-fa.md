@@ -13,10 +13,10 @@ description: DATA130026
 ### 学习建议：
 
 * 教材：
-  * ☆ Stephen Boyd - Convex Optimization
-  * Edwin K. P. Chong - 最优化导论
-  * 文再文 - 最优化建模、算法与理论
-  * 温斯顿 - 运筹学 : 应用范例与解法
+  * ☆ [Stephen Boyd - Convex Optimization](https://book.douban.com/subject/1888111/)
+  * [Edwin K. P. Chong - 最优化导论](https://book.douban.com/subject/26732914/)
+  * [文再文 - 最优化：建模、算法与理论](https://book.douban.com/subject/35258057/)
+  * [温斯顿 - 运筹学：应用范例与解法](https://book.douban.com/subject/1882392/)
 *   网课：
 
     * ☆ [Stanford EE364a/b Convex Optimization I/II](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex/)

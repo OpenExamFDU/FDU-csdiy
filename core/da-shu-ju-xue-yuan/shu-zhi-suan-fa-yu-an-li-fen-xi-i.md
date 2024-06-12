@@ -11,9 +11,9 @@ description: DATA130002
 ### 学习建议：
 
 * 教材：
-  * ☆ Justin Solomon - Numerical Algorithms, Methods for Computer Vision, Machine Learning, and Graphics
-  * Roger A. Horn - Matrix Analysis
-  * Gilbert Strang - Linear Algebra and Learning from Data
+  * ☆ [Justin Solomon - Numerical Algorithms, Methods for Computer Vision, Machine Learning, and Graphics](https://book.douban.com/subject/26612177/)
+  * [Roger A. Horn - Matrix Analysis](https://book.douban.com/subject/1435534/)
+  * [Gilbert Strang - Linear Algebra and Learning from Data](https://book.douban.com/subject/30432978/)
 *   网课：
 
     * ☆ [MIT 6.S955: Applied Numerical Algorithms](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv\_Io\_NT1b0Nzr9YDqpK3Lb)

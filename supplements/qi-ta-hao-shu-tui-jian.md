@@ -77,7 +77,6 @@
 * [Judea Pearl - 统计因果推理入门](https://book.douban.com/subject/35314378/)
 * [Judea Pearl - Causality: Models, Reasoning and Inference](https://book.douban.com/subject/3677371/)
 * [Stephen Morgan - Counterfactuals and Causal Inference](https://book.douban.com/subject/26282253/)
-* [Richard Larsen - 数理统计及其应用](https://book.douban.com/subject/33431537/)
 * [Trevor Hastie - Computer Age Statistical Inference](https://book.douban.com/subject/26797864/)
 * [Peter Westfall - Understanding Advanced Statistical Methods](https://book.douban.com/subject/20116859/)
 * [Larry Wasserman - All of Nonparametric Statistics](https://book.douban.com/subject/4251603/)

@@ -11,9 +11,9 @@ description: DATA130003
 ### 学习建议：
 
 * 教材：
-  * Trevor Hastie - 统计学习导论
-  * 李航 - 统计学习方法
-  * Joseph K.Blitzstein - 概率论导论
+  * [Trevor Hastie - 统计学习导论](https://book.douban.com/subject/21706191/)
+  * [李航 - 统计学习方法](https://book.douban.com/subject/33437381/)
+  * [Trevor Hastie - The Elements of Statistical Learning](https://book.douban.com/subject/3294335/)
 *   网课：
 
     * [Stanford CS229 Introduction to Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CS229/)

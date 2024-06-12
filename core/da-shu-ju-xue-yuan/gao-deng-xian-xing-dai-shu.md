@@ -11,10 +11,10 @@ description: DATA130042
 ### 学习建议：
 
 * 教材：
-  * ☆ Roger A. Horn - Matrix Analysis
-  * ☆ Sheldon Axler - Linear Algebra Done Right
-  * Gilbert Strang - Linear Algebra and Learning from Data
-  * Justin Solomon - Numerical Algorithms, Methods for Computer Vision, Machine Learning, and Graphics
+  * ☆ [Roger A. Horn - Matrix Analysis](https://book.douban.com/subject/1435534/)
+  * ☆ [Sheldon Axler - Linear Algebra Done Right](https://book.douban.com/subject/26265880/)
+  * [Gilbert Strang - Linear Algebra and Learning from Data](https://book.douban.com/subject/30432978/)
+  * [Justin Solomon - Numerical Algorithms, Methods for Computer Vision, Machine Learning, and Graphics](https://book.douban.com/subject/26612177/)
 *   网课：
 
     * [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.bilibili.com/video/BV1b4411j7V3)

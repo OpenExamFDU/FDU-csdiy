@@ -13,8 +13,8 @@ description: DATA130011
 ### 学习建议：
 
 * 教材：
-  * 李沐 - 动手学深度学习
-  * ☆ 邱锡鹏 - 神经网络与深度学习
+  * [李沐 - 动手学深度学习](https://zh-v2.d2l.ai/)
+  * ☆ [邱锡鹏 - 神经网络与深度学习](https://book.douban.com/subject/35044046/)
 * 网课：
   * ☆ [Stanford CS231n Deep Learning for Computer Vision](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231/)
   * ☆ [Stanford CS224n NLP with Deep Learning](https://csdiy.wiki/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS224n/)

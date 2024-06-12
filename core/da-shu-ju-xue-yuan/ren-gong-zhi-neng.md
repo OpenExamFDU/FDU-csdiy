@@ -11,8 +11,8 @@ description: DATA130008
 ### 学习建议：
 
 * 教材：
-  * ☆ Stuart Russell - 人工智能现代方法
-  * 邱锡鹏 - 神经网络与深度学习
+  * ☆ [Stuart Russell - 人工智能：现代方法](https://book.douban.com/subject/36152133/)
+  * [邱锡鹏 - 神经网络与深度学习](https://book.douban.com/subject/35044046/)
 *   网课：
 
     * ☆ [UCB CS188 Introduction to Artificial Intelligence (Labs ☆)](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS188/)
