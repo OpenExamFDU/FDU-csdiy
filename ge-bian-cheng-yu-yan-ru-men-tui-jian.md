@@ -23,7 +23,7 @@
 ### Rust
 
 * 教程：[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
-* 课程：[Stnaford CS110L Safety in Systems Programming](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Rust/CS110L/)
+* 课程：[Stanford CS110L Safety in Systems Programming](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Rust/CS110L/)
 
 ### Go
 
