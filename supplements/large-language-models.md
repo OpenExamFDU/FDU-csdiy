@@ -46,8 +46,6 @@
 * [https://wenting-zhao.github.io/complex-reasoning-tutorial/](https://wenting-zhao.github.io/complex-reasoning-tutorial/)
 * [https://acl2023-retrieval-lm.github.io/](https://acl2023-retrieval-lm.github.io/)
 * [https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
-* [https://github.com/allenai/acl2022-zerofewshot-tutorial](https://github.com/allenai/acl2022-zerofewshot-tutorial)
-* [https://github.com/zcgzcgzcg1/ACL2022\_KnowledgeNLP\_Tutorial](https://github.com/zcgzcgzcg1/ACL2022\_KnowledgeNLP\_Tutorial)
 * [https://vlp-tutorial-acl2022.github.io/](https://vlp-tutorial-acl2022.github.io/)
 * [https://maartensap.com/acl2020-commonsense/](https://maartensap.com/acl2020-commonsense/)
 * [https://www.deeplearning.ai/short-courses/](https://www.deeplearning.ai/short-courses/)
