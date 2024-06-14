@@ -32,6 +32,8 @@
 * [UW Protein Design Videos](https://www.ipd.uw.edu/learn/)
 * [ML for Protein Engineering Seminar Series](https://www.youtube.com/@mlforproteinengineeringsem6420/featured)
 * [UCSD Drug Discovery Specialization](https://www.coursera.org/specializations/drug-development-product-management#courses)
+* [ICLR 2024 Workshop Generative and Experimental Perspectives for Biomolecular Design](https://iclr.cc/virtual/2024/workshop/20583)
+* [ICLR 2023 Workshop Machine Learning for Drug Discovery (MLDD)](https://iclr.cc/virtual/2023/workshop/12843)
 
 #### Healthcare
 
