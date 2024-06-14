@@ -53,6 +53,7 @@
 * [数据挖掘技术](selective/shu-ju-wa-jue-ji-shu.md)
 * [并行计算与性能优化](selective/bing-hang-ji-suan-yu-xing-neng-you-hua.md)
 * [分布式系统](selective/fen-bu-shi-xi-tong.md)
+* [系统程序设计](selective/xi-tong-cheng-xu-she-ji.md)
 * [计算机系统工程](selective/ji-suan-ji-xi-tong-gong-cheng.md)
 * [随机过程导论](selective/sui-ji-guo-cheng-dao-lun.md)
 * [高级大数据解析](selective/gao-ji-da-shu-ju-jie-xi.md)

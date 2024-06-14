@@ -32,5 +32,5 @@
 ### 系统编程
 
 * 教材：[Bruce Molay - Unix/Linux编程实践教程](https://book.douban.com/subject/1219329/)
-* 教材：[Michael Kerrisk - Linux/UNIX系统编程手册](https://book.douban.com/subject/25809330/)
+* 课程：[MIT The Missing Semester of Your CS Education](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
 
