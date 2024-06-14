@@ -74,13 +74,8 @@
 ### Quantum
 
 * [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
+* [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/\~odonnell/quantum18/)
 * [TUM Einführung in Quantum Computing](https://tum.live/?year=2023\&term=W\&slug=EiQC\&view=3)
 * [TUM Advanced Concepts of Quantum Computing](https://tum.live/?year=2023\&term=S\&slug=ACoQC\&view=3)
 * [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/\~jrl/cse599Q/)
-
-
-
-
-
-
 

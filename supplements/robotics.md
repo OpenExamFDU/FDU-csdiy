@@ -10,6 +10,7 @@
 
 * [Princeton MAE345 Introduction to Robotics](https://www.youtube.com/watch?v=e4jow5O3JT8)
 * [UCB EE106A Introduction to Robotics](https://www.bilibili.com/video/BV1rD4y127GV)
+* [UCB EE290 Integrated Perception, Learning, and Control](https://www.bilibili.com/video/BV1NK4y1Z7VM)
 
 ### Math Foundations
 

@@ -60,6 +60,7 @@
 
 * [张俊林 - 大数据日知录](https://book.douban.com/subject/25984046/)
 * [Matt Housley - Fundamentals of Data Engineering](https://book.douban.com/subject/35810423/)
+* [Michael Stonebraker - Readings in Database Systems](http://www.redbook.io/)
 * [Marko Lukša - Kubernetes in Action](https://book.douban.com/subject/30418855/)
 * [张磊 - 深入剖析Kubernetes](https://book.douban.com/subject/35424872/)
 * [黄健宏 - Redis设计与实现](https://book.douban.com/subject/25900156/)
@@ -84,12 +85,6 @@
 * [温斯顿 - 运筹学：应用范例与解法](https://book.douban.com/subject/1882392/)
 * [Yurii Nesterov - Introductory Lectures on Convex Optimization](https://book.douban.com/subject/1834645/)
 * [Dimitris Bertsimas - Introduction to Linear Optimization](https://book.douban.com/subject/2157943/)
-
-### Job Interviews
-
-* [Gayle Laakmann McDowell - 程序员面试金典](https://book.douban.com/subject/34813624/)
-* [何海涛 - 剑指Offer：名企面试官精讲典型编程题](https://book.douban.com/subject/27008702/)
-* [诸葛越 - 百面机器学习](https://book.douban.com/subject/30285146/)
 
 ### Career Development
 
