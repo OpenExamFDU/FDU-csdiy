@@ -29,6 +29,10 @@
 
 * 教程：[A Tour of Go](https://go.dev/tour/list)
 
+### TypeScript
+
+* 教程：[The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+
 ### 系统编程
 
 * 教材：[Bruce Molay - Unix/Linux编程实践教程](https://book.douban.com/subject/1219329/)

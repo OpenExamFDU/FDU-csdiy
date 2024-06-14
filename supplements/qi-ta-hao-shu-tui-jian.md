@@ -11,6 +11,7 @@
 
 ### C++ Programming
 
+* [Bjarne Stroustrup - C++程序设计原理与实践](https://book.douban.com/subject/4875599/)
 * [Anthony Williams - C++并发编程实战](https://book.douban.com/subject/35653912/)
 * [侯捷 - STL源码剖析](https://book.douban.com/subject/1110934/)
 
