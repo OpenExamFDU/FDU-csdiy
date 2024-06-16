@@ -21,6 +21,7 @@ description: COMP130192
   * [UCB CS267 Applications of Parallel Computers](https://www.bilibili.com/video/BV1qV411q7RS)
   * [MIT 6.172 Performance Engineering Of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
   * [Stanford CS149 Parallel Computing (Labs ☆)](https://gfxcourses.stanford.edu/cs149/fall23)
+  * [KAIST CS431 Concurrent Programming](https://github.com/kaist-cp/cs431)
   * [MIT 6.824 Distributed System](https://csdiy.wiki/%E5%B9%B6%E8%A1%8C%E4%B8%8E%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/MIT6.824/)
   * [UW-Madison CS759 High Performance Computing for Engineering Applications](https://blog.ruipan.xyz/earlier-readings-and-notes/cs759-hpc-course-notes)
   * [NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/)

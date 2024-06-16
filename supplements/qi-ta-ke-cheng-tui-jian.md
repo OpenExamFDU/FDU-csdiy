@@ -42,6 +42,5 @@
 * [MIT 16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/)
 * [UCSD CS258 Web Mining and Recommender Systems](https://www.bilibili.com/video/BV1LL4y1p7Ta)
 * [Stanford CS183 How to Start a Startup](https://www.youtube.com/playlist?list=PL5q\_lef6zVkaTY\_cT1k7qFNF2TidHCe-1)
-* [Imperial College London - TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning)
 * [CMU 15-150 Principles of Functional Programming](https://www.bilibili.com/video/BV1jp421o75o)
 

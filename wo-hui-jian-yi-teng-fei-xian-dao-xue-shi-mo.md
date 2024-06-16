@@ -3,9 +3,9 @@
 ### 计算机科学科普
 
 * ☆ [Harvard CS50 Introduction to Computer Science](https://www.bilibili.com/video/BV1HW4y1A7Yi)
+* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th)
 * [Brian W. Kernighan - 普林斯顿计算机公开课](https://book.douban.com/subject/36346586/)
-* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
 ### 编程入门
 
@@ -16,12 +16,12 @@
 
 #### 程序设计
 
-* [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
-* ☆ [UCB CS61A Structure and Interpretation of Computer Programs](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/)
+* ☆ [MIT 6.0001 Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [UCB CS61A Structure and Interpretation of Computer Programs](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/)
 
 ### 工具入门
 
-* ☆ [MIT The Missing Semester of Your CS Education](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
+* ☆ [MIT The Missing Semester of Your CS Education](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) / [UCB Sysadmin DeCal](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/DeCal/)
 * [CS必学工具](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
 ### 人工智能科普

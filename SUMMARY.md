@@ -2,7 +2,7 @@
 
 * [FDU CS自学指南](README.md)
 * [我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
-* [各编程语言入门推荐](ge-bian-cheng-yu-yan-ru-men-tui-jian.md)
+* [各编程语言/框架入门推荐](ge-bian-cheng-yu-yan-kuang-jia-ru-men-tui-jian.md)
 
 ## 大类基础 <a href="#basic" id="basic"></a>
 
@@ -47,13 +47,13 @@
 * [自然语言处理](selective/zi-ran-yu-yan-chu-li.md)
 * [计算机视觉](selective/ji-suan-ji-shi-jue.md)
 * [计算机图形学](selective/ji-suan-ji-tu-xing-xue.md)
+* [系统程序设计](selective/xi-tong-cheng-xu-she-ji.md)
 * [并发理论](selective/bing-fa-li-lun.md)
 * [编程方法与技术](selective/bian-cheng-fang-fa-yu-ji-shu.md)
 * [移动互联网](selective/yi-dong-hu-lian-wang.md)
 * [数据挖掘技术](selective/shu-ju-wa-jue-ji-shu.md)
 * [并行计算与性能优化](selective/bing-hang-ji-suan-yu-xing-neng-you-hua.md)
 * [分布式系统](selective/fen-bu-shi-xi-tong.md)
-* [系统程序设计](selective/xi-tong-cheng-xu-she-ji.md)
 * [计算机系统工程](selective/ji-suan-ji-xi-tong-gong-cheng.md)
 * [随机过程导论](selective/sui-ji-guo-cheng-dao-lun.md)
 * [高级大数据解析](selective/gao-ji-da-shu-ju-jie-xi.md)
