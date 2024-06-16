@@ -19,9 +19,13 @@
 * [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
 * [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
 * [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
+* [MIT Molecular Biology - Part 1: DNA Replication and Repair / Part 2: Transcription and Transposition / Part 3: RNA Processing and Translation](https://www.edx.org/learn/molecular-biology/massachusetts-institute-of-technology-molecular-biology-part-1-dna-replication-and-repair)
+* [中国科学院大学 - 基因组学](https://ngdc.cncb.ac.cn/education/courses/genomics/)
+* [中国科学院大学 - 高通量测序数据分析技术](https://www.bilibili.com/video/BV1Ks4y1L7Wz?p=1)
 
 #### Computational & System Biology & Protein Design & Drug Discovery
 
+* [Harvard STAT215 Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/)
 * [MIT 7.91J Foundations Of Computational And Systems Biology](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
 * [Stanford CS279 Computational Biology: Structure and Organization of Biomolecules and Cells](https://web.stanford.edu/class/cs279/)
 * [Stanford BIO228 Computational Structural Biology: Protein Simulation, Function and Prediction](https://web.stanford.edu/class/sbio228/)
