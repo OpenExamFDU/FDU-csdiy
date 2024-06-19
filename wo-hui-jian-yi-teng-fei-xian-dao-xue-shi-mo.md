@@ -36,11 +36,15 @@
 * [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj\_g)
 * [DeepLearning.AI Courses](https://www.deeplearning.ai/courses/)
 
-### 数据科学 / 深度学习科普
+### 数据科学 / 深度学习科普（Optional）
 
 * [弗朗索瓦·肖莱 - Python深度学习](https://book.douban.com/subject/30293801/)
 * [UCB Data8 The Foundations of Data Science](https://www.data8.org/)
 * [斋藤康毅 - 深度学习入门](https://book.douban.com/subject/30270959/)
+
+### 人工智能 & 大模型快速上手参考（Optional）
+
+* [AI & LLM 快速上手指南](https://github.com/OpenExamFDU/FDU-csdiy/blob/main/supplements/AI%20%26%20LLM%20%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.pdf)
 
 ### 数理基础
 
