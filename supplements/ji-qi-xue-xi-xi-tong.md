@@ -11,6 +11,7 @@
 * [Stanford MLSys Seminar](https://mlsys.stanford.edu/)
 * [Machine Learning System Resources](https://www.bodunhu.com/blog/posts/machine-learning-system-resources/)
 * [Building Blocks for AI Systems](https://github.com/HazyResearch/aisys-building-blocks)
+* [AI 系统开源课程](https://chenzomi12.github.io/index.html)
 
 ### MLSys & ML Compilation
 
