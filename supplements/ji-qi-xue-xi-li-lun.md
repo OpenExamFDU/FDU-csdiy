@@ -4,10 +4,11 @@
 
 * [张潼 - Mathematical Analysis of Machine Learning Algorithms](https://tongzhang-ml.org/lt-book/lt-book.pdf)
 * [文再文 - 大数据分析中的算法](http://faculty.bicmr.pku.edu.cn/\~wenzw/bigdata2023.html)
+* [NYU Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 * [Stanford CS229M Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
 * [Stanford STATS385 Analyses of Deep Learning](https://stats385.github.io/)
+* [MIT 6.438 Algorithms for Inference](https://ocw.mit.edu/courses/6-438-algorithms-for-inference-fall-2014/)
 * [Caltech CS159 Neural Network Theory: Learning & Generalisation](https://1five9.github.io/learning/)
-* [NYU Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 * [NYU DA-GA3001 Modern Topics in Statistical Learning Theory](https://cecilialeiqi.github.io/teaching.html)
 * [Cornell CS4787 Principles of Large-Scale Machine Learning](https://www.cs.cornell.edu/courses/cs4787/2023fa/)
 
@@ -39,12 +40,15 @@
 
 ### Probability & Statistics
 
-* [ETH Statistical Learning Theory](https://ml2.inf.ethz.ch/courses/slt/)
-* [MIT 6.438 Algorithms for Inference](https://ocw.mit.edu/courses/6-438-algorithms-for-inference-fall-2014/)
-* [MIT 9.520 Statistical Learning Theory and Applications](https://www.mit.edu/\~9.520/fall19/)
-* [CMU 10-716 Advanced Machine Learning](https://www.cs.cmu.edu/\~pradeepr/716/)
+* [CMU 36-708 Statistical Methods for Machine Learning](https://www.stat.cmu.edu/\~larry/=sml/)
+* [UW-Madison STAT710 Mathematical Statistics](https://pages.stat.wisc.edu/\~shao/stat710/main.html)
+* [Stanford Statistical Learning with Sparsity](https://hastie.su.domains/StatLearnSparsity/)
 * [Gaussian Process Summer Schools](https://gpss.cc/)
+* [PKU Modern Computational Statistics](https://zcrabbit.github.io/courses/mcs-f19.html)
+* [UCL GR8201 Bayesian Nonparametrics](https://www.gatsby.ucl.ac.uk/\~porbanz/GR8201S17.html)
 * [UCB Stat240 Robust and Nonparametric Statistics](https://www.bilibili.com/video/BV1gh411o774)
+* [Yale ECE598 Information-theoretic Methods in High-Dimensional Statistics](http://www.stat.yale.edu/\~yw562/teaching/598/index.html)
+* [MIT 18.S997 High-Dimensional Statistics](https://ocw.mit.edu/courses/18-s997-high-dimensional-statistics-spring-2015/)
 * [UCI High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/\~rvershyn/teaching/hdp/hdp.html)
 
 ### Algorithms
