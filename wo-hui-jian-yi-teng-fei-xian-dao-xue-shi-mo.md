@@ -50,7 +50,7 @@
 
 * 见对应课程
 
-### 视野与规划
+### 习惯、视野与规划
 
 * [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
 * [CS自学指南](https://csdiy.wiki/)
