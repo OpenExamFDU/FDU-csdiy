@@ -40,15 +40,25 @@
 
 ### Blogs & Tutorials
 
+#### Hardwares
+
 * [A Full Hardware Guide to Deep Learning](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 * [What Every Developer Should Know About GPU Computing](https://blog.codingconfessions.com/p/gpu-computing)
 * [Trends in Machine Learning Hardware](https://epochai.org/blog/trends-in-machine-learning-hardware#computational-price-performance)
+
+#### Training
+
 * [The Technology Behind BLOOM Training](https://huggingface.co/blog/bloom-megatron-deepspeed)
+* [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/)
+* [Everything about Distributed Training and Efficient Finetuning](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
+* [A100/H100 太贵，何不用 4090？](https://zhuanlan.zhihu.com/p/655402388)
+
+#### Inference
+
 * [Exploring the Latency/Throughput & Cost Space for LLM Inference](https://www.youtube.com/watch?v=mYRqvB1\_gRk)
 * [Towards 100x Speedup: Full Stack Transformer Inference Optimization](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
 * [Full Stack Transformer Inference Optimization Season 2: Deploying Long-Context Models](https://yaofu.notion.site/Full-Stack-Transformer-Inference-Optimization-Season-2-Deploying-Long-Context-Models-ee25d3a77ba14f73b8ae19147f77d5e2)
 * [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
-* [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/posts/2021-09-25-train-large/)
 * [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 * [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr\_intro.html)
@@ -63,5 +73,4 @@
 * [Everything about Distributed Training and Efficient Finetuning](https://sumanthrh.com/post/distributed-and-efficient-finetuning/)
 * [Where do LLMs spend their FLOPS?](https://www.artfintel.com/p/where-do-llms-spend-their-flops)
 * [剖析GPT推断中的批处理效应](https://abcdabcd987.com/2023/05/13/transformer-batching/)
-* [A100/H100 太贵，何不用 4090？](https://zhuanlan.zhihu.com/p/655402388)
 
