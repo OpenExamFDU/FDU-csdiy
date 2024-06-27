@@ -54,4 +54,5 @@
 
 * [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
 * [CS自学指南](https://csdiy.wiki/)
+* [Marty Lobdell - Study Less, Study Smart](https://www.bilibili.com/video/BV1Pz4y1f7oi)
 * [清华大学飞跃手册 - 文章阅读](https://feiyue.online/reading/)
