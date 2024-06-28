@@ -15,6 +15,8 @@ description: COMP130146
 *   网课
 
     * [KAIST CS431 Concurrent Programming](https://github.com/kaist-cp/cs431)
+    * [Brown CS1760 Multiprocessor Synchronization](https://cs.brown.edu/courses/cs176/course\_information.shtml)
+    * [UW CSE506 Concurrency](https://courses.cs.washington.edu/courses/csep506/11sp/Home.html)
 
 
 

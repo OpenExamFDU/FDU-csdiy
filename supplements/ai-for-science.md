@@ -72,10 +72,15 @@
 
 * [University of Arizona Astronomy: Exploring Time and Space](https://www.coursera.org/learn/astro)
 * [Rutgers Analyzing the Universe](https://www.coursera.org/learn/analyze)
+* [A Beginner Guide to Astro-Statistics and Astro-Machine-Learning](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
+* [NRC Astronomical Data Analysis using Python](https://www.youtube.com/playlist?list=PL3jLiVc5sr3P7Uov0VFsEfwPOEG1rF-FO)
 * [Yale ASTR160 Frontiers and Controversies in Astrophysics](https://oyc.yale.edu/astronomy/astr-160)
 * [University of Sydney Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)
 * [Machine Learning for Astrophysics Repo](https://github.com/ml4astro)
 * [Caltech Astronomy Public Lecture Series](https://www.youtube.com/playlist?list=PL0yNjaybQwdudycotA6z0DFK5DZaXWE1J)
+* [SPARC Workshop on Machine Learning in Solar Physics and Space Weather](https://www.youtube.com/playlist?list=PLtxxbMktGS8pjURPBXJTAkClnXVE\_ZNni)
+* [AstroTwinCoLo - Computational Astrophysics](https://www.youtube.com/playlist?list=PLPdkBLbDPtqoHDcjUweIJqe6GKnOz0-Qw)
+* [Caltech AstroInformatics 2019](http://astroinformatics2019.org/)
 
 ### Quantum
 

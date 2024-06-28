@@ -9,6 +9,7 @@
 * [UCB EECS16A Designing Information Devices and Systems I](https://www.bilibili.com/video/BV1uK4y1M7cJ)
 * [UCB EECS16B Designing Information Devices and Systems II](https://www.bilibili.com/video/BV1PM4y1M7mV?p=1\&vd\_source=e5a2e11b469274b8b7536bffa8a0bfba)
 * [MIT 18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall23/)
+* [TUDelft - Introduction to Functional Programming](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
 
 ### Data Structure & Algorithms
 
@@ -39,6 +40,7 @@
 ### Miscellaneous
 
 * [Adam Teman - SoC101 Everything you wanted to know about a computer but were afraid to ask](https://www.youtube.com/playlist?list=PLZU5hLL\_713ygweO3b\_9KiZUJuEI7I5yK)
+* [University of Boon Modern C++ Lectures & Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
 * [MIT 16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/)
 * [UCSD CS258 Web Mining and Recommender Systems](https://www.bilibili.com/video/BV1LL4y1p7Ta)
 * [Stanford CS183 How to Start a Startup](https://www.youtube.com/playlist?list=PL5q\_lef6zVkaTY\_cT1k7qFNF2TidHCe-1)
