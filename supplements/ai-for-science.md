@@ -27,6 +27,7 @@
 
 * [Harvard STAT215 Introduction to Bioinformatics and Computational Biology](https://liulab-dfci.github.io/bioinfo-combio/)
 * [MIT 7.91J Foundations Of Computational And Systems Biology](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)
+* [CMU 03-712 Biological Modeling and Simulation](https://www.youtube.com/playlist?list=PLUKmtlUTHfBOgpZFmTvsTwkUh2K1RAse-)
 * [Stanford CS279 Computational Biology: Structure and Organization of Biomolecules and Cells](https://web.stanford.edu/class/cs279/)
 * [Stanford BIO228 Computational Structural Biology: Protein Simulation, Function and Prediction](https://web.stanford.edu/class/sbio228/)
 * [Princeton CS597N Advanced Topics in Computer Science: Machine Learning for Structural Biology](https://www.cs.princeton.edu/courses/archive/fall23/cos597N/)
@@ -50,10 +51,13 @@
 * [Learn Medical Neuroscience](https://www.learnmedicalneuroscience.nl/)
 * [JHU Neuroscience and Neuroimaging Specialization](https://www.coursera.org/specializations/computational-neuroscience#courses)
 * [MIT 9.40 Introduction To Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)
+* [EPFL Neural Networks and Biological Modeling](https://portal.klewel.com/watch/webcast/kSydHMcow5Vm9KsNoKLP23/)
 * [Waterloo SYDE552 Computational Neuroscience](https://www.youtube.com/playlist?list=PLX-XEf1yTMrkcpni8RJMnqGBlA9uEHlaE)
 * [UW Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)
+* [UCB Neuroscience299 Computing with High-Dimensional Vectors](https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors/#m7)
 * [Neuromatch Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
 * [Cajal Course in Computational Neuroscience](https://training.incf.org/course/cajal-course-computational-neuroscience)
+* [Caltech Data Science and AI for Neuroscience Summer School](https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq\_AO3dd62s33RHtU4bp)
 
 ### **Physics & Computational Science**
 
@@ -84,9 +88,18 @@
 
 ### Quantum
 
-* [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
+* [UChicago Quantum Computing for Everyone](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e)
+* [NYU Introduction to Quantum Information and Quantum Computing](https://www.youtube.com/playlist?list=PLo0Vs5tDeRLRIPcJ83SN91M-asGuaa1AD)
+* [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/\~jrl/cse599Q/)
+* [Qiskit Summer School - Introduction to Quantum Computing and Quantum Hardware](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+* [Qiskit Summer School - Understanding Quantum Information and Computation](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO)
+* [UChicago Quantum Computer Systems](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
 * [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/\~odonnell/quantum18/)
+* [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
+* [Caltech CS219 Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD\_lF1hflo89Iu)
+* [UCB Quantum Mechanics and Quantum Computation](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS\_Se\_P-fSEyEVQwni7)
 * [TUM Einführung in Quantum Computing](https://tum.live/?year=2023\&term=W\&slug=EiQC\&view=3)
 * [TUM Advanced Concepts of Quantum Computing](https://tum.live/?year=2023\&term=S\&slug=ACoQC\&view=3)
-* [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/\~jrl/cse599Q/)
+* [TUDelft The Building Blocks of a Quantum Computer: Part 1](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/)
+* [TUDelft The Building Blocks of a Quantum Computer: Part 2](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/)
 
