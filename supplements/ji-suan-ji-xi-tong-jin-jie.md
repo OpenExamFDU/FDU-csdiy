@@ -59,3 +59,11 @@
 * [UCB CS267 Applications of Parallel Computers](https://www.bilibili.com/video/BV1qV411q7RS)
 * [Stanford CS149 Parallel Computing](https://gfxcourses.stanford.edu/cs149/fall23)
 
+### Embedded Systems
+
+* [UPenn ESE3600 Tiny Machine Learning](https://tinyml.seas.upenn.edu)
+* [Harvard CS249r Tiny Machine Learning Handbook](https://harvard-edge.github.io/cs249r\_book/)
+* [Cornell ECE4760 Digital Systems Design Using Microcontrollers](https://ece4760.github.io/)
+* [Cornell ECE5760 Advanced Microcontroller Design and System on Chip](https://people.ece.cornell.edu/land/courses/ece5760/#schedule)
+* [UCB EECS151 Introduction to Digital Design and Integrated Circuits](https://www.bilibili.com/video/BV1bv4y1T751/)
+
