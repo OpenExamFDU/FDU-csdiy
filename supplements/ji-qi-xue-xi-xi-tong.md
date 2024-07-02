@@ -45,6 +45,7 @@
 * [Tim Dettmers - A Full Hardware Guide to Deep Learning](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 * [What Every Developer Should Know About GPU Computing](https://blog.codingconfessions.com/p/gpu-computing)
 * [Trends in Machine Learning Hardware](https://epochai.org/blog/trends-in-machine-learning-hardware#computational-price-performance)
+* [From Bare Metal to a 70B Model: Infrastructure Set-up and Scripts](https://imbue.com/research/70b-infrastructure/)
 
 #### Training
 
