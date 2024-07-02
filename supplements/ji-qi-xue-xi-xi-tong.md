@@ -40,12 +40,16 @@
 
 ### Blogs & Tutorials
 
-#### Hardwares
+#### Hardwares & Infrastructure
 
+* [Jeff Dean - Designs, Lessons and Advice from Building Large Distributed Systems](https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf)
 * [Tim Dettmers - A Full Hardware Guide to Deep Learning](https://timdettmers.com/2018/12/16/deep-learning-hardware-guide/)
 * [What Every Developer Should Know About GPU Computing](https://blog.codingconfessions.com/p/gpu-computing)
 * [Trends in Machine Learning Hardware](https://epochai.org/blog/trends-in-machine-learning-hardware#computational-price-performance)
 * [From Bare Metal to a 70B Model: Infrastructure Set-up and Scripts](https://imbue.com/research/70b-infrastructure/)
+* [AI and Memory Wall](https://medium.com/riselab/ai-and-memory-wall-2cb4265cb0b8)
+* [The Economics of Generative AI](https://apoorv03.com/p/the-economics-of-generative-ai)
+* [How To Build A Better “Blackwell” GPU Than Nvidia Did](https://www.nextplatform.com/2024/03/28/how-to-build-a-better-blackwell-gpu-than-nvidia-did/)
 
 #### Training
 
@@ -57,6 +61,8 @@
 * [DeepSpeed ZeRO++: A leap in speed for LLM and chat model training with 4X less communication](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/)
 * [DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-ulysses/README.md)
 * [DeepSpeed Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-chat/README.md)
+* [Go smol or go home - Why we should train smaller LLMs on more tokens](https://www.harmdevries.com/post/model-size-vs-compute-overhead/)
+* [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms)
 * [A100/H100 太贵，何不用 4090？](https://zhuanlan.zhihu.com/p/655402388)
 
 #### Inference & Serving
@@ -72,6 +78,7 @@
 * [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 * [Where do LLMs spend their FLOPS?](https://www.artfintel.com/p/where-do-llms-spend-their-flops)
 * [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr\_intro.html)
+* [LLM Inference Speed of Light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [LLM Inference Series: 1. Introduction](https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d)
 * [LLM Inference Series: 2. The two-phase process behind LLMs’ responses](https://medium.com/@plienhar/llm-inference-series-2-the-two-phase-process-behind-llms-responses-1ff1ff021cd5)
 * [LLM Inference Series: 3. KV caching explained](https://medium.com/@plienhar/llm-inference-series-3-kv-caching-unveiled-048152e461c8)
