@@ -8,13 +8,19 @@
 
 [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 
+###
+
+### 导师选择
+
+[The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide](https://weihao97.github.io/files/Get-Advisor.pdf)
+
+[如何选择导师 - 交大生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi)
+
 
 
 ### 本科生科研指南
 
 [彭思达 - Learning Research](https://github.com/pengsida/learning\_research)
-
-[如何选择导师 - 交大生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/fang-tan-ji/xiao-xin-xiang-mu-de-xian-jing/xuan-dui-dao-shi)
 
 
 
