@@ -48,17 +48,17 @@
 * 教材：[Bruce Molay - Unix/Linux编程实践教程](https://book.douban.com/subject/1219329/)
 * 课程：[MIT The Missing Semester of Your CS Education](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/) / [UCB Sysadmin DeCal](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/DeCal/)
 
+## CUDA
+
+* 教程：[NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/)
+* 教程：[Programming Massively Parallel Processors: A Hands-on Approach](https://github.com/cuda-mode/lectures)
+
 ## 机器学习 / 深度学习 / 数据科学框架
 
 #### Pytorch
 
 * 教程：[Pytorch Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
 * 课程：[UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html)（Tutorial 2-4）
-
-#### CUDA
-
-* 教程：[NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/)
-* 教程：[Programming Massively Parallel Processors: A Hands-on Approach](https://github.com/cuda-mode/lectures)
 
 #### Huggingface
 
