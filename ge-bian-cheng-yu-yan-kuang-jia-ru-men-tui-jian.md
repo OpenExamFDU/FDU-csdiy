@@ -55,6 +55,11 @@
 * 教程：[Pytorch Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
 * 课程：[UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html)（Tutorial 2-4）
 
+#### CUDA
+
+* 教程：[NVIDIA CUDA Training Series](https://www.olcf.ornl.gov/cuda-training-series/)
+* 教程：[Programming Massively Parallel Processors: A Hands-on Approach](https://github.com/cuda-mode/lectures)
+
 #### Huggingface
 
 * 教程：[Huggingface NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
