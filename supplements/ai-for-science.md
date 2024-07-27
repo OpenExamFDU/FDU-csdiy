@@ -5,6 +5,7 @@
 * [AI for Science 101](https://ai4science101.github.io/)
 * [AI for Science Community](https://ai4sciencecommunity.github.io/)
 * [AI4Sci Education Organization](https://ai4sciedu.github.io/)
+* [AI4Science Talks](https://ai4sciencetalks.github.io/)
 * [Cornell AI for Science Seminar Series](https://science.ai.cornell.edu/events/ai-for-science-seminar-series-spring-2024/)
 * [Microsoft AI4Science Community](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/overview/)
 * [Caltech CS159 Representation Learning for Science](https://sites.google.com/view/cs159/home?authuser=0)
