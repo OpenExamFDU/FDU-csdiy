@@ -10,6 +10,7 @@
 * [Gatech CS6210 Advanced Operating Systems](https://www.youtube.com/watch?v=GTObrKKbRww\&list=PLAwxTw4SYaPkKfusBLVfklgfdcB3BNpwX)
 * [Cornell CS5412 Topics in Cloud Computing](https://www.cs.cornell.edu/courses/cs5412/2022fa/Syllabus.html)
 * [MIT 6.887 Machine Learning for Systems](https://dsg.csail.mit.edu/6.887/)
+* [rCore-OS Rust开源操作系统教程](https://rcore-os.cn/)
 
 ### Computer Security
 
