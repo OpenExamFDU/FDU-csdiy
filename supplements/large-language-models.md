@@ -37,6 +37,7 @@
 * [ACL 2023 Tutorial: Complex Reasoning in Natural Language](https://wenting-zhao.github.io/complex-reasoning-tutorial/)
 * [ACL 2023 Tutorial: Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
 * [Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
+* [Alignment Guidebook](https://www.notion.so/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
 * [ACL 2022 Tutorial: Vision-Language Pretraining: Current Trends and the Future](https://vlp-tutorial-acl2022.github.io/)
 * [ACL 2020 Tutorial: Commonsense](https://maartensap.com/acl2020-commonsense/)
 
