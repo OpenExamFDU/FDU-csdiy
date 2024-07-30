@@ -45,6 +45,7 @@
 * [LLMs 相关知识及面试题](https://dongnian.icu/llm\_interview\_note/#/)
 * [动手学LLM](https://github.com/liguodongiot/llm-action)
 * [LLM八股](https://dongnian.icu/note/llm/llm\_concept/llm%E5%85%AB%E8%82%A1.html)
+* [百面LLM系列](https://www.zhihu.com/column/c\_1747590116120698880)
 * [Maxime Labonne - LLM Hands-on Course](https://github.com/mlabonne/llm-course)
 * [诸葛越 - 百面深度学习](https://book.douban.com/subject/35043939/)
 
