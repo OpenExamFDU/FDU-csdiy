@@ -7,6 +7,14 @@
 * [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th)
 * [Brian W. Kernighan - 普林斯顿计算机公开课](https://book.douban.com/subject/36346586/)
 
+### 习惯、视野与规划
+
+* [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
+* [清华姚班如何培养天才：给最有挑战性的问题和足够的自由度](https://www.xiaoyuzhoufm.com/episode/66b2bacf14519b60b5ccb985?s=eyJ1IjoiNjViOWZlYzNlZGNlNjcxMDRhMWVlZTNkIn0%3D)
+* [CS自学指南](https://csdiy.wiki/)
+* [Marty Lobdell - Study Less, Study Smart](https://www.bilibili.com/video/BV1Pz4y1f7oi)
+* [吴恩达 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
+
 ### 编程入门
 
 #### Python语言
@@ -49,11 +57,3 @@
 ### 数理基础
 
 * 见对应课程
-
-### 习惯、视野与规划
-
-* [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
-* [CS自学指南](https://csdiy.wiki/)
-* [Marty Lobdell - Study Less, Study Smart](https://www.bilibili.com/video/BV1Pz4y1f7oi)
-* [吴恩达 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
-* [清华大学飞跃手册 - 文章阅读](https://feiyue.online/reading/)

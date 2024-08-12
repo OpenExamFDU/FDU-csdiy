@@ -94,6 +94,8 @@
 
 [For NLP/AI Researchers：预测未来 规划科研](https://zhuanlan.zhihu.com/p/661903331)
 
+[清华大学飞跃手册 - 文章阅读](https://feiyue.online/reading/)
+
 
 
 
