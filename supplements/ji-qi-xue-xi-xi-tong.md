@@ -12,6 +12,9 @@
 * [Machine Learning System Resources](https://www.bodunhu.com/blog/posts/machine-learning-system-resources/)
 * [Building Blocks for AI Systems](https://github.com/HazyResearch/aisys-building-blocks)
 * [AI 系统开源课程](https://chenzomi12.github.io/index.html)
+* [BBuf - How to optimize algorithms in CUDA](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
+* [BBuf - How to learn deep learning frameworks](https://github.com/BBuf/how-to-learn-deep-learning-framework)\
+
 
 ### MLSys & ML Compilation
 
