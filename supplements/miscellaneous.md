@@ -12,6 +12,7 @@
 * [信息竞赛指南（OI Wiki）](https://oi-wiki.org/)
 * [上海交大IEEE试点班课程指南](https://ieee.icu/#/)
 * [上海交大人工智能专业学习指南](https://aisjtu.icu/)
+* [浙江大学计算机资源汇总](https://isshikihugh.github.io/zju-cs-asio/)
 * [浙江大学图灵班学习指南](https://zju-turing.github.io/TuringCourses/)
 * [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/#\_2)
 * [中国科学技术大学大数据学院本科进阶手册](https://advancedguideforsds.gitbook.io/advancedguide)

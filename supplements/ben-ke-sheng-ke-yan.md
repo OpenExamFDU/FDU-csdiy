@@ -22,6 +22,8 @@
 
 [彭思达 - Learning Research](https://github.com/pengsida/learning\_research)
 
+[GAMES003 科研基本素养](https://pengsida.net/games003/)
+
 
 
 ### 论文阅读
