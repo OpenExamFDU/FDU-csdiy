@@ -17,5 +17,7 @@ description: DATA130024
   * [茆诗松 - 概率论与数理统计教程](https://book.douban.com/subject/34897672/)
   * [Joseph K.Blitzstein - 概率论导论](https://book.douban.com/subject/31195286/)
 * 网课：
-  * [UCB CS123: Probability theory](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS126/)
-  * [UCB CS70 : discrete Math and probability theory](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/)
+  * [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1LE411B7ir)
+  * [Stanford CS109 Probability for Computer Scientists](https://www.bilibili.com/video/BV1da411c7C8)
+  * [UCB CS123 Probability Theory](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS126/)
+  * [UCB CS70 Discrete Math and Probability Theory](https://csdiy.wiki/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/)
