@@ -29,6 +29,7 @@
 * [Stanford CS25 Transformers United](https://web.stanford.edu/class/cs25/)&#x20;
 * [Caltech CS159 Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024/home?authuser=0)
 * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
+* [UCB CS294 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
 * [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
 * [UW CSE599J Data-centric Machine Learning](https://koh.pw/cse599j/)
 * [ICLR 2024 Workshop on Large Language Models for Agents](https://iclr.cc/virtual/2024/workshop/20575)
