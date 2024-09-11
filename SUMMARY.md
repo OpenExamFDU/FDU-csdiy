@@ -3,6 +3,7 @@
 * [FDU CS自学指南](README.md)
 * [我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
 * [各编程语言/框架入门推荐](ge-bian-cheng-yu-yan-kuang-jia-ru-men-tui-jian.md)
+* [修读计划参考](xiu-du-ji-hua-can-kao.md)
 
 ## 大类基础 <a href="#basic" id="basic"></a>
 
