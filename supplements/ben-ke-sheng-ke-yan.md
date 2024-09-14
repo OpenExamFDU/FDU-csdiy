@@ -24,6 +24,8 @@
 
 [GAMES003 科研基本素养](https://pengsida.net/games003/)
 
+[失败本科科研的一些共性](https://fdu-hotpot.top/community/hotpot-internship/%E5%A4%B1%E8%B4%A5%E6%9C%AC%E7%A7%91%E7%A7%91%E7%A0%94%E7%9A%84%E4%B8%80%E4%BA%9B%E5%85%B1%E6%80%A7/)
+
 
 
 ### 论文阅读
@@ -41,6 +43,8 @@
 [MIT EECS Commkit](https://mitcommlab.mit.edu/eecs/use-the-commkit/)
 
 [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+
+[Writing AI Conference Papers: A Handbook for Beginners](https://github.com/hzwer/WritingAIPaper?tab=readme-ov-file)
 
 [How to write an okay research paper by Sasha Rush](https://www.youtube.com/watch?v=qNlwVGxkG7Q)
 
