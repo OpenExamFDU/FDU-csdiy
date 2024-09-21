@@ -63,6 +63,7 @@
 
 ### **Physics & Computational Science**
 
+* [Machine Learning for Physicists](https://machine-learning-for-physicists.org/)
 * [Machine Learning and Physical Sciences Workshops](https://ml4physicalsciences.github.io/2023/)
 * [Steve Brunton - Machine Learning for Fluid Mechanics](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M)
 * [Steve Brunton - Physics Informed Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
