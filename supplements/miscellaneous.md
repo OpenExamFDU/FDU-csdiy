@@ -9,5 +9,6 @@
 * [信息竞赛指南（OI Wiki）](https://oi-wiki.org/)
 * [浙江大学计算机资源汇总](https://isshikihugh.github.io/zju-cs-asio/)
 * [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/#\_2)
+* [中科大软件学院冒险者指南](https://ustcse.wolai.com/eNDbNZUnpVc7ZwRL9EWbHd)
 * [四川大学计软网生存手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
 
