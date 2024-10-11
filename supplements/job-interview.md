@@ -44,6 +44,8 @@
 ### 面试
 
 * [面试中需要注意的细节 - 如何让你刷题的辛苦得到应有的回报](https://www.1point3acres.com/bbs/thread-560499-1-1.html)
+* [北美找工Interview干货分享](https://www.xiaohongshu.com/explore/65fb12d10000000014004273)
+* [北美找工Phone Screen/First Round干货分享](https://www.xiaohongshu.com/explore/65c0117a0000000002021d08)
 * [谈谈coding面试的种类与基本应对策略](https://www.1point3acres.com/bbs/thread-435598-1-1.html)
 * [谈谈面试官在面试coding题目时的考察终点与心理活动](https://www.1point3acres.com/bbs/thread-433722-1-1.html)
 * [当面试官问你有没有问题想要问](https://www.1point3acres.com/bbs/thread-346993-1-1.html)
@@ -100,6 +102,11 @@
 * [HCI PhD 找工作的一些经验（业界篇）](https://zhuanlan.zhihu.com/p/687764806)
 * [北美CS求职四十一条建议（NG/Intern）](https://zhuanlan.zhihu.com/p/475840413)
 * [无实习上岸美国全职记录](https://www.1point3acres.com/bbs/thread-1038573-1-1.html)
+* [北美找工Resume 过机器（ATS）关干货分享](https://www.xiaohongshu.com/explore/662a78fa000000001c006370)
+* [北美找工Networking干货分享](https://www.xiaohongshu.com/explore/664a6e33000000000c01b349)
+* [北美找工LinkedIn Profile Tips干货分享](https://www.xiaohongshu.com/explore/65dec3d9000000000b00ee9b)
+* [北美Data Analyst找工干货分享](https://www.xiaohongshu.com/explore/66633f6b0000000015010123)
+* [23ng地狱模式上岸，整理的亲测有效找工tips](https://www.xiaohongshu.com/explore/657270b1000000000700ae03)
 * [n+e's blog - 找工回忆录](https://trinkle23897.github.io/posts/job-application)
 * [我是怎么在2022秋招拿到2.5个offer的](https://www.1point3acres.com/bbs/thread-930966-1-1.html)
 * [十年地里的老用户，看美国SDE职场和行业的十年沉浮](https://www.1point3acres.com/bbs/thread-1039631-1-1.html)
