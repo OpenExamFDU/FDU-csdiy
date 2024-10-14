@@ -2,7 +2,7 @@
 
 ### General
 
-* [Gayle Laakmann McDowell - 程序员面试金典](https://book.douban.com/subject/34813624/)
+* [Gayle Laakmann McDowell - 程序员面试金典](https://github.com/fireraccoon/leetcode-solutions/blob/master/books/%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9D%A2%E8%AF%95%E9%87%91%E5%85%B8%EF%BC%88%E7%AC%AC6%E7%89%88%EF%BC%89.pdf)
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
 * [程序员海外工作/英文面试手册](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
 * [CMU Career & Professional Development Center Resource Library](https://www.cmu.edu/career/students-and-alumni/resource-library/index.html)
@@ -40,6 +40,7 @@
 * [Tech Summer Internships - 2025](https://github.com/SimplifyJobs/Summer2025-Internships)
 * [Jobright - Step by Step Guide to Securing Internships](https://docs.google.com/spreadsheets/d/1iQPgsSYR2I3RmWsZwAlZGRAnYwNEuV2GEufOW955n84/edit?gid=634158744#gid=634158744)
 * [Indeed - Job Search](https://www.indeed.com/)
+* [NLPJob](https://www.nlpjob.com/)
 
 ### 面试
 
