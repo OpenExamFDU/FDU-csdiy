@@ -5,6 +5,8 @@
 * [微软亚洲研究院 - 人工智能系统](https://github.com/microsoft/AI-System)
 * [CMU 10-414 Deep Learning Systems](https://dlsyscourse.org/lectures/)
 * [刘铁岩 - 分布式机器学习](https://book.douban.com/subject/30360968/)
+* [ML Systems Onboarding Reading List](https://github.com/gpu-mode/awesomeMLSys)
+* [Andrej Karpathy - llm.c](https://github.com/karpathy/llm.c)
 
 ### Seminars & Collections
 
@@ -13,8 +15,7 @@
 * [Building Blocks for AI Systems](https://github.com/HazyResearch/aisys-building-blocks)
 * [AI 系统开源课程](https://chenzomi12.github.io/index.html)
 * [BBuf - How to optimize algorithms in CUDA](https://github.com/BBuf/how-to-optim-algorithm-in-cuda)
-* [BBuf - How to learn deep learning frameworks](https://github.com/BBuf/how-to-learn-deep-learning-framework)\
-
+* [BBuf - How to learn deep learning frameworks](https://github.com/BBuf/how-to-learn-deep-learning-framework)
 
 ### MLSys & ML Compilation
 
