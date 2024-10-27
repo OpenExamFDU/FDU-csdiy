@@ -38,7 +38,7 @@
 * [New Grad Full-time Positions - 2024](https://github.com/ReaVNaiL/New-Grad-2024)
 * [New Grad Full-time Positions - 2025](https://github.com/SimplifyJobs/New-Grad-Positions)
 * [Tech Summer Internships - 2025](https://github.com/SimplifyJobs/Summer2025-Internships)
-* [Jobright - Step by Step Guide to Securing Internships](https://docs.google.com/spreadsheets/d/1iQPgsSYR2I3RmWsZwAlZGRAnYwNEuV2GEufOW955n84/edit?gid=634158744#gid=634158744)
+* [Jobright - The Ultimate 2025 U.S. Internships List](https://intern-list.com/)
 * [Indeed - Job Search](https://www.indeed.com/)
 * [NLPJob](https://www.nlpjob.com/)
 
