@@ -5,6 +5,7 @@
 * [微软亚洲研究院 - 人工智能系统](https://github.com/microsoft/AI-System)
 * [CMU 10-414 Deep Learning Systems](https://dlsyscourse.org/lectures/)
 * [刘铁岩 - 分布式机器学习](https://book.douban.com/subject/30360968/)
+* [A Meticulous Guide to Advances in Deep Learning Efficiency over the Years](https://alexzhang13.github.io/blog/2024/efficient-dl/)
 * [ML Systems Onboarding Reading List](https://github.com/gpu-mode/awesomeMLSys)
 * [Andrej Karpathy - llm.c](https://github.com/karpathy/llm.c)
 
