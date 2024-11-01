@@ -40,6 +40,8 @@
   * [数据库及实现](core/da-shu-ju-xue-yuan/shu-ju-ku-ji-shi-xian.md)
   * [统计（机器）学习概论](core/da-shu-ju-xue-yuan/tong-ji-ji-qi-xue-xi-gai-lun.md)
   * [人工智能](core/da-shu-ju-xue-yuan/ren-gong-zhi-neng.md)
+  * [图像处理与可视化](core/da-shu-ju-xue-yuan/tu-xiang-chu-li-yu-ke-shi-hua.md)
+  * [统计计算](core/da-shu-ju-xue-yuan/tong-ji-ji-suan.md)
   * [神经网络与深度学习](core/da-shu-ju-xue-yuan/shen-jing-wang-luo-yu-shen-du-xue-xi.md)
 
 ## 专业选修 <a href="#selective" id="selective"></a>
