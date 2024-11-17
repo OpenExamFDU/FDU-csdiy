@@ -95,6 +95,7 @@
 * [百面LLM系列](https://www.zhihu.com/column/c\_1747590116120698880)
 * [Maxime Labonne - LLM Hands-on Course](https://github.com/mlabonne/llm-course)
 * [诸葛越 - 百面深度学习](https://book.douban.com/subject/35043939/)
+* [算法工程师面试秘籍](https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer)
 * [CUDA Learn Notes](https://github.com/DefTruth/CUDA-Learn-Notes)
 
 ### 经验分享
