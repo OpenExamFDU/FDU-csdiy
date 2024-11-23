@@ -7,6 +7,7 @@
 * [刘铁岩 - 分布式机器学习](https://book.douban.com/subject/30360968/)
 * [A Meticulous Guide to Advances in Deep Learning Efficiency over the Years](https://alexzhang13.github.io/blog/2024/efficient-dl/)
 * [ML Systems Onboarding Reading List](https://github.com/gpu-mode/awesomeMLSys)
+* [UW CSE552 Systems for ML Reading List](https://courses.cs.washington.edu/courses/cse599k/24au/schedule/)
 * [Andrej Karpathy - llm.c](https://github.com/karpathy/llm.c)
 
 ### Seminars & Collections
@@ -72,7 +73,7 @@
 
 #### Inference & Serving
 
-* [Mistral-AI‬ - Exploring the Latency/Throughput & Cost Space for LLM Inference](https://www.youtube.com/watch?v=mYRqvB1\_gRk)
+* [Mistral-AI‬ - Exploring the Latency/Throughput & Cost Space for LLM Inference](https://www.youtube.com/watch?v=mYRqvB1_gRk)
 * [Yao Fu - Full Stack Transformer Inference Optimization Season 1: Towards 100x Speedup](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
 * [Yao Fu - Full Stack Transformer Inference Optimization Season 2: Deploying Long-Context Models](https://yaofu.notion.site/Full-Stack-Transformer-Inference-Optimization-Season-2-Deploying-Long-Context-Models-ee25d3a77ba14f73b8ae19147f77d5e2)
 * [Lilian Weng - Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
@@ -82,7 +83,7 @@
 * [Anyscale - How continuous batching enables 23x throughput in LLM inference while reducing p50 latency](https://www.anyscale.com/blog/continuous-batching-llm-inference)
 * [How to make LLMs go fast](https://vgel.me/posts/faster-inference/)
 * [Where do LLMs spend their FLOPS?](https://www.artfintel.com/p/where-do-llms-spend-their-flops)
-* [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr\_intro.html)
+* [Making Deep Learning Go Brrrr From First Principles](https://horace.io/brrr_intro.html)
 * [LLM Inference Speed of Light](https://zeux.io/2024/03/15/llm-inference-sol/)
 * [LLM Inference Series: 1. Introduction](https://medium.com/@plienhar/llm-inference-series-1-introduction-9c78e56ef49d)
 * [LLM Inference Series: 2. The two-phase process behind LLMs’ responses](https://medium.com/@plienhar/llm-inference-series-2-the-two-phase-process-behind-llms-responses-1ff1ff021cd5)
