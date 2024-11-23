@@ -7,7 +7,7 @@
 * [刘铁岩 - 分布式机器学习](https://book.douban.com/subject/30360968/)
 * [A Meticulous Guide to Advances in Deep Learning Efficiency over the Years](https://alexzhang13.github.io/blog/2024/efficient-dl/)
 * [ML Systems Onboarding Reading List](https://github.com/gpu-mode/awesomeMLSys)
-* [UW CSE552 Systems for ML Reading List](https://courses.cs.washington.edu/courses/cse599k/24au/schedule/)
+* [UW CSE559 Systems for ML Reading List](https://courses.cs.washington.edu/courses/cse599k/24au/schedule/)
 * [Andrej Karpathy - llm.c](https://github.com/karpathy/llm.c)
 
 ### Seminars & Collections
@@ -25,7 +25,7 @@
 * [UCB CS294 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 * [CMU Machine Learning Compilation](https://mlc.ai/)
 * [UW CS599 ML for ML Systems](https://courses.cs.washington.edu/courses/cse599m/23sp/)
-* [UW CS552 Systems for ML](https://courses.cs.washington.edu/courses/cse599k/24au/)
+* [UW CS559 Systems for ML](https://courses.cs.washington.edu/courses/cse599k/24au/)
 
 ### Hardwares
 
