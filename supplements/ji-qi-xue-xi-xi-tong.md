@@ -25,6 +25,7 @@
 * [UCB CS294 Machine Learning Systems](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 * [CMU Machine Learning Compilation](https://mlc.ai/)
 * [UW CS599 ML for ML Systems](https://courses.cs.washington.edu/courses/cse599m/23sp/)
+* [UW CS552 Systems for ML](https://courses.cs.washington.edu/courses/cse599k/24au/)
 
 ### Hardwares
 
