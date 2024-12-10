@@ -28,15 +28,16 @@
 * [UCB EE106B Robotic Manipulation and Interaction](https://www.bilibili.com/video/BV1nK4y1N77j)
 * [UMich ROB380 Introduction to Autonomous Robotics](https://autorob.org/)
 * [UMich ROB530 Mobile Robotics](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
-* [CMU 16-715 Advanced Robot Dynamic and Simulation](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR\_BobleLY)
+* [CMU 16-715 Advanced Robot Dynamic and Simulation](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
 * [CMU 16-782 Planning and Decision Making in Robotics](https://www.bilibili.com/video/BV1nT411m7hB)
 * [CMU 16-745 Optimal Control and Reinforcement Learning](https://www.bilibili.com/video/BV1wF411p79e)
 
 ### Robotics Learning & Computer Vision
 
-* [UCB CS287 Advanced Robotics](https://people.eecs.berkeley.edu/\~pabbeel/cs287-fa19/)
+* [UCB CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 * [CMU 16-831 Introduction to Robot Learning](https://16-831-s24.github.io/)
 * [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
 * [UMich ROB498 Deep Learning for Robot Perception](https://deeprob.org/w24/)
+* [Stanford EE259 Principles of Sensing for Autonomy](https://www.youtube.com/playlist?list=PLoROMvodv4rOhE007XQu707Dy52qXiZGV)
 * [EPFL MICRO462 Learning for Adaptive and Reactive Robot Control](https://www.epfl.ch/labs/lasa/mit-press-book-learning/)
 
