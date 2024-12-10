@@ -18,6 +18,6 @@ description: COMP130006
 *   网课：
 
     * ☆ [MIT 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.bilibili.com/video/BV1LE411B7ir)
-    * [Stanford CS109 Probability for Computer Scientists](https://www.bilibili.com/video/BV1da411c7C8)
+    * [Stanford CS109 Probability for Computer Scientists](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg)
     * [UCSD MATH181A Mathematical Statistics I](https://www.bilibili.com/video/BV1q54y1e75b)
 
