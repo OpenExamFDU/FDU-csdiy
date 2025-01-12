@@ -7,7 +7,7 @@
 ### Foundations
 
 * [Stanford CS224N Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
-* [李宏毅 - 生成式人工智能导论](https://speech.ee.ntu.edu.tw/\~hylee/genai/2024-spring.php)
+* [李宏毅 - 生成式人工智能导论](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
 
 ### General Courses
 
@@ -28,8 +28,9 @@
 
 * [Stanford CS25 Transformers United](https://web.stanford.edu/class/cs25/)&#x20;
 * [UCB CS294 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
+* [UCB CS294 Advanced Large Language Model Agents](https://rdi.berkeley.edu/adv-llm-agents/sp25)
 * [Caltech CS159 Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024/home?authuser=0)
-* [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/\~wenhuche/teaching/cs886/)
+* [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 * [Anthropic LLM Courses: API Fundamentals / Prompt Engineering / Real World Prompting / Prompt Evaluations / Tool Use](https://github.com/anthropics/courses)
 * [Reinforcement Learning from Human Feedback Handbook](https://rlhfbook.com/)
 * [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
