@@ -104,4 +104,5 @@
 * [Yves Hilpisch - Python金融衍生品大数据分析](https://book.douban.com/subject/27084134/)
 * [Sebastien Donadio - Developing High-Frequency Trading Systems](https://book.douban.com/subject/36052175/)
 * [Timothy Crack - Heard on the Street: Quantitative Questions from Wall Street Job Interviews](https://book.douban.com/subject/1806489/)
+* [Quant Wiki 中文量化百科](https://quant-wiki.com/)
 
