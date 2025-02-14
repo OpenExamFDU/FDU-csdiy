@@ -2,7 +2,7 @@
 description: COMP130148
 ---
 
-# 数据挖掘技术
+# 📊 数据挖掘技术
 
 ### 内容重要性：☆☆☆
 
@@ -13,7 +13,7 @@ description: COMP130148
 ### 学习建议：
 
 * 教材
-  * ☆ [Jure Leskovec - Mining Massive Datasets](http://infolab.stanford.edu/\~ullman/mmds/book.pdf)
+  * ☆ [Jure Leskovec - Mining Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 * 网课
   * ☆ [Stanford CS246 Mining Massive Datasets](https://www.bilibili.com/video/BV13x411o7Qg)
   * [Stanford CS229 Introduction to Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CS229/)
