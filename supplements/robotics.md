@@ -35,6 +35,7 @@
 ### Robotics Learning & Computer Vision
 
 * [UCB CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+* [UCB CS294 Robots That Learns](https://robots-that-learn.github.io/)
 * [CMU 16-831 Introduction to Robot Learning](https://16-831-s24.github.io/)
 * [Tübingen Self-Driving Cars](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/)
 * [UMich ROB498 Deep Learning for Robot Perception](https://deeprob.org/w24/)
