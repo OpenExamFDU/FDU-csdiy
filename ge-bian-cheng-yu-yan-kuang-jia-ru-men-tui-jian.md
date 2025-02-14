@@ -1,4 +1,4 @@
-# 各编程语言/框架入门推荐
+# 💻 各编程语言/框架入门推荐
 
 ## 编程语言
 
@@ -19,7 +19,7 @@
 
 #### Java
 
-* 课程：[UCB CS61B Data Structures and Algorithms](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS61B/#\_1)（前4周）&#x20;
+* 课程：[UCB CS61B Data Structures and Algorithms](https://csdiy.wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/CS61B/#_1)（前4周）&#x20;
 * 课程：[UCSD Object Oriented Java Programming: Data Structures and Beyond Specialization](https://www.coursera.org/specializations/java-object-oriented#courses)
 
 #### Rust
@@ -58,7 +58,7 @@
 #### Pytorch
 
 * 教程：[Pytorch Tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html)
-* 课程：[UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial\_notebooks/tutorial2/Introduction\_to\_PyTorch.html)（Tutorial 2-4）
+* 课程：[UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial2/Introduction_to_PyTorch.html)（Tutorial 2-4）
 
 #### Huggingface
 

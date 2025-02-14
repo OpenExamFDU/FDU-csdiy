@@ -1,4 +1,4 @@
-# 修读计划参考
+# 🏫 修读计划参考
 
 * [斯坦福 CS 课程4年学习规划](https://www.mihaileric.com/posts/complete-artificial-intelligence-undergraduate-course-plan/)
 * [UCB EECS 课程修读指南](https://hkn.eecs.berkeley.edu/courseguides)

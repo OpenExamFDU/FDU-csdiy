@@ -1,4 +1,4 @@
-# 我会建议腾飞先导学什么
+# 🛫 我会建议腾飞先导学什么
 
 ### 计算机科学科普
 
@@ -36,12 +36,12 @@
 
 * ☆ [Harvard CS50 Introduction to Artificial Intelligence with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/)
 * ☆ [吴恩达 - AI for Everyone](https://www.bilibili.com/video/BV1yC4y127uj)
-* [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1\_67000Dx\_ZCJB-3pi)
+* [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 #### 生成式人工智能科普
 
 * [吴恩达 - GenAI for Everyone](https://www.bilibili.com/video/BV11G411X7nZ)
-* [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj\_g)
+* [Andrej Karpathy - Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 * [DeepLearning.AI Courses](https://www.deeplearning.ai/courses/)
 
 ### 数据科学 / 深度学习科普（Optional）

@@ -1,16 +1,16 @@
 # Table of contents
 
 * [FDU CS自学指南](README.md)
-* [我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
-* [各编程语言/框架入门推荐](ge-bian-cheng-yu-yan-kuang-jia-ru-men-tui-jian.md)
-* [修读计划参考](xiu-du-ji-hua-can-kao.md)
+* [🛫 我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
+* [💻 各编程语言/框架入门推荐](ge-bian-cheng-yu-yan-kuang-jia-ru-men-tui-jian.md)
+* [🏫 修读计划参考](xiu-du-ji-hua-can-kao.md)
 
 ## 大类基础 <a href="#basic" id="basic"></a>
 
-* [数学分析B I/II](basic/shu-xue-fen-xibiii.md)
-* [大学物理B 上/下](basic/da-xue-wu-lib-shang-xia.md)
-* [程序设计](basic/cheng-xu-she-ji.md)
-* [线性代数](basic/xian-xing-dai-shu.md)
+* [📑 数学分析B I/II](basic/shu-xue-fen-xibiii.md)
+* [⚛️ 大学物理B 上/下](basic/da-xue-wu-lib-shang-xia.md)
+* [🖥️ 程序设计](basic/cheng-xu-she-ji.md)
+* [📈 线性代数](basic/xian-xing-dai-shu.md)
 
 ## 专业核心 <a href="#core" id="core"></a>
 
