@@ -1,5 +1,6 @@
 ---
 description: DATA130005
+icon: chart-candlestick
 ---
 
 # 统计学基础：原理、方法及R应用 (I)

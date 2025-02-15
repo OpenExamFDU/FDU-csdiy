@@ -1,5 +1,6 @@
 ---
 description: DATA130024
+icon: cards
 ---
 
 # 概率论基础

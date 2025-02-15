@@ -1,8 +1,9 @@
 ---
 description: PHYS120013 / PHYS120014
+icon: atom
 ---
 
-# ⚛️ 大学物理B 上/下
+# 大学物理B 上/下
 
 ### 内容重要性：☆☆
 

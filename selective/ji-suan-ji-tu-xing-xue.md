@@ -1,8 +1,9 @@
 ---
 description: COMP130018
+icon: quinscape
 ---
 
-# ⭕ 计算机图形学
+# 计算机图形学
 
 ### 内容重要性：☆☆
 

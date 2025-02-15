@@ -1,5 +1,6 @@
 ---
 description: DATA130011
+icon: head-side-gear
 ---
 
 # 神经网络与深度学习

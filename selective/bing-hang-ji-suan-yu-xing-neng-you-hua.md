@@ -1,8 +1,9 @@
 ---
 description: SOFT130070
+icon: rocket-launch
 ---
 
-# 🚀 并行计算与性能优化
+# 并行计算与性能优化
 
 ### 内容重要性：☆☆☆☆
 

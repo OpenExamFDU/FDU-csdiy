@@ -1,5 +1,6 @@
 ---
 description: COMP130010
+icon: database
 ---
 
 # 数据库引论

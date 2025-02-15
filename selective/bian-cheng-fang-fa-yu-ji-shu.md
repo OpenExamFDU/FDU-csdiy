@@ -1,8 +1,9 @@
 ---
 description: COMP130176
+icon: laptop-binary
 ---
 
-# 🖥️ 编程方法与技术
+# 编程方法与技术
 
 ### 内容重要性：☆☆☆
 

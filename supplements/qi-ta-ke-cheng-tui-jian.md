@@ -1,3 +1,7 @@
+---
+icon: person-chalkboard
+---
+
 # 其他课程推荐
 
 本版块列举一下编者推荐、但未被列入其他版块的课程：
@@ -7,7 +11,7 @@
 * [MIT 6.01SC Introduction to Electrical Engineering And Computer Science I](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 * [MIT 6.02 Introduction to EECS II: Digital Communication Systems](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/)
 * [UCB EECS16A Designing Information Devices and Systems I](https://www.bilibili.com/video/BV1uK4y1M7cJ)
-* [UCB EECS16B Designing Information Devices and Systems II](https://www.bilibili.com/video/BV1PM4y1M7mV?p=1\&vd\_source=e5a2e11b469274b8b7536bffa8a0bfba)
+* [UCB EECS16B Designing Information Devices and Systems II](https://www.bilibili.com/video/BV1PM4y1M7mV?p=1\&vd_source=e5a2e11b469274b8b7536bffa8a0bfba)
 * [MIT 18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall23/)
 * [TUDelft - Introduction to Functional Programming](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
 
@@ -20,9 +24,9 @@
 ### TCS
 
 * [MIT 18.404J Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
-* [Tim Roughgarden - Incentives in Computer Science (Short Intro Course)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJdrKZ431SidRX\_T4VmAKx8)
-* [CMU 15-751 CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv\_EHH9wtH6pnX)
-* [UW CS599 Analytic and Geometric Methods in TCS](https://homes.cs.washington.edu/\~jrl/cse599wi23/)
+* [Tim Roughgarden - Incentives in Computer Science (Short Intro Course)](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJdrKZ431SidRX_T4VmAKx8)
+* [CMU 15-751 CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
+* [UW CS599 Analytic and Geometric Methods in TCS](https://homes.cs.washington.edu/~jrl/cse599wi23/)
 
 ### Data Science
 
@@ -39,10 +43,10 @@
 
 ### Miscellaneous
 
-* [Adam Teman - SoC101 Everything you wanted to know about a computer but were afraid to ask](https://www.youtube.com/playlist?list=PLZU5hLL\_713ygweO3b\_9KiZUJuEI7I5yK)
+* [Adam Teman - SoC101 Everything you wanted to know about a computer but were afraid to ask](https://www.youtube.com/playlist?list=PLZU5hLL_713ygweO3b_9KiZUJuEI7I5yK)
 * [University of Boon Modern C++ Lectures & Tutorials](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
 * [MIT 16.842 Fundamentals of Systems Engineering](https://ocw.mit.edu/courses/16-842-fundamentals-of-systems-engineering-fall-2015/)
 * [UCSD CS258 Web Mining and Recommender Systems](https://www.bilibili.com/video/BV1LL4y1p7Ta)
-* [Stanford CS183 How to Start a Startup](https://www.youtube.com/playlist?list=PL5q\_lef6zVkaTY\_cT1k7qFNF2TidHCe-1)
+* [Stanford CS183 How to Start a Startup](https://www.youtube.com/playlist?list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1)
 * [CMU 15-150 Principles of Functional Programming](https://www.bilibili.com/video/BV1jp421o75o)
 

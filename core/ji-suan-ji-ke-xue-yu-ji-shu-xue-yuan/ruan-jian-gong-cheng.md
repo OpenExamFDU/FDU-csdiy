@@ -1,5 +1,6 @@
 ---
 description: COMP130015
+icon: google-plus-g
 ---
 
 # 软件工程

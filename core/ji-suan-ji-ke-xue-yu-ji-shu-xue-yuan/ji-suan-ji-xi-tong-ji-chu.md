@@ -1,5 +1,6 @@
 ---
 description: COMP130201
+icon: ubuntu
 ---
 
 # 计算机系统基础

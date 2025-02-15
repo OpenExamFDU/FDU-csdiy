@@ -1,3 +1,7 @@
+---
+icon: flask-vial
+---
+
 # AI for Science
 
 ### General
@@ -9,7 +13,7 @@
 * [Cornell AI for Science Seminar Series](https://science.ai.cornell.edu/events/ai-for-science-seminar-series-spring-2024/)
 * [Microsoft AI4Science Community](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai4science/overview/)
 * [Caltech CS159 Representation Learning for Science](https://sites.google.com/view/cs159/home?authuser=0)
-* [Artificial Intelligence For Science: A Deep Learning Revolution by Alok Choudhary, Geoffrey C Fox, Tony Hey](https://books.google.com/books/about/Artificial\_Intelligence\_For\_Science\_A\_De.html?id=LCK\_EAAAQBAJ)
+* [Artificial Intelligence For Science: A Deep Learning Revolution by Alok Choudhary, Geoffrey C Fox, Tony Hey](https://books.google.com/books/about/Artificial_Intelligence_For_Science_A_De.html?id=LCK_EAAAQBAJ)
 
 ### Biology & Chemistry
 
@@ -18,7 +22,7 @@
 * [MIT 7.01SC Fundamentals Of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/)
 * [MIT MAS.63 How To Grow (almost) Anything](https://fab.cba.mit.edu/classes/S63.21/index.html)
 * [Oxford How to Build a Brain from Scratch](https://humaninformationprocessing.com/teaching/)
-* [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/\~eero/math-tools/)
+* [NYU Mathematical Tools for Neural and Cognitive Science](https://www.cns.nyu.edu/~eero/math-tools/)
 * [Imperial College Neuroscience for Machine Learners](https://neuro4ml.github.io/)
 * [MIT Molecular Biology - Part 1: DNA Replication and Repair / Part 2: Transcription and Transposition / Part 3: RNA Processing and Translation](https://www.edx.org/learn/molecular-biology/massachusetts-institute-of-technology-molecular-biology-part-1-dna-replication-and-repair)
 * [中国科学院大学 - 基因组学](https://ngdc.cncb.ac.cn/education/courses/genomics/)
@@ -34,7 +38,7 @@
 * [Princeton CS597N Advanced Topics in Computer Science: Machine Learning for Structural Biology](https://www.cs.princeton.edu/courses/archive/fall23/cos597N/)
 * [Princeton COS IW10 Molecular Machine Learning](https://www.cs.princeton.edu/courses/archive/spr24/cosIW10/)
 * [VT CS6824 AI-powered Molecular Modeling](https://people.cs.vt.edu/dbhattacharya/courses/cs6824/)
-* [MIT 6.047 Machine Learning for Genomics](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz\_\_CdsaoKJ)
+* [MIT 6.047 Machine Learning for Genomics](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ)
 * [UW Protein Design Videos](https://www.ipd.uw.edu/learn/)
 * [ML for Protein Engineering Seminar Series](https://www.youtube.com/@mlforproteinengineeringsem6420/featured)
 * [UCSD Drug Discovery Specialization](https://www.coursera.org/specializations/drug-development-product-management#courses)
@@ -59,7 +63,7 @@
 * [UCB Neuroscience299 Computing with High-Dimensional Vectors](https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors/#m7)
 * [Neuromatch Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)
 * [Cajal Course in Computational Neuroscience](https://training.incf.org/course/cajal-course-computational-neuroscience)
-* [Caltech Data Science and AI for Neuroscience Summer School](https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq\_AO3dd62s33RHtU4bp)
+* [Caltech Data Science and AI for Neuroscience Summer School](https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq_AO3dd62s33RHtU4bp)
 
 ### **Physics & Computational Science**
 
@@ -85,7 +89,7 @@
 * [University of Sydney Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)
 * [Machine Learning for Astrophysics Repo](https://github.com/ml4astro)
 * [Caltech Astronomy Public Lecture Series](https://www.youtube.com/playlist?list=PL0yNjaybQwdudycotA6z0DFK5DZaXWE1J)
-* [SPARC Workshop on Machine Learning in Solar Physics and Space Weather](https://www.youtube.com/playlist?list=PLtxxbMktGS8pjURPBXJTAkClnXVE\_ZNni)
+* [SPARC Workshop on Machine Learning in Solar Physics and Space Weather](https://www.youtube.com/playlist?list=PLtxxbMktGS8pjURPBXJTAkClnXVE_ZNni)
 * [AstroTwinCoLo - Computational Astrophysics](https://www.youtube.com/playlist?list=PLPdkBLbDPtqoHDcjUweIJqe6GKnOz0-Qw)
 * [Caltech AstroInformatics 2019](http://astroinformatics2019.org/)
 
@@ -93,14 +97,14 @@
 
 * [UChicago Quantum Computing for Everyone](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e)
 * [NYU Introduction to Quantum Information and Quantum Computing](https://www.youtube.com/playlist?list=PLo0Vs5tDeRLRIPcJ83SN91M-asGuaa1AD)
-* [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/\~jrl/cse599Q/)
+* [UW CS599Q Introduction to Quantum Computing](https://homes.cs.washington.edu/~jrl/cse599Q/)
 * [Qiskit Summer School - Introduction to Quantum Computing and Quantum Hardware](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
 * [Qiskit Summer School - Understanding Quantum Information and Computation](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO)
 * [UChicago Quantum Computer Systems](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
-* [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/\~odonnell/quantum18/)
+* [CMU 15-859BB Quantum Computation and Quantum Information](https://www.cs.cmu.edu/~odonnell/quantum18/)
 * [MIT 8.370 Quantum Information Science](https://ocw.mit.edu/courses/8-370x-quantum-information-science-i-spring-2018/)
-* [Caltech CS219 Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD\_lF1hflo89Iu)
-* [UCB Quantum Mechanics and Quantum Computation](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS\_Se\_P-fSEyEVQwni7)
+* [Caltech CS219 Quantum Computation](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
+* [UCB Quantum Mechanics and Quantum Computation](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
 * [TUM Einführung in Quantum Computing](https://tum.live/?year=2023\&term=W\&slug=EiQC\&view=3)
 * [TUM Advanced Concepts of Quantum Computing](https://tum.live/?year=2023\&term=S\&slug=ACoQC\&view=3)
 * [TUDelft The Building Blocks of a Quantum Computer: Part 1](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/)

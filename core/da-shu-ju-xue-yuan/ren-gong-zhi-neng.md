@@ -1,5 +1,6 @@
 ---
 description: DATA130008
+icon: brain-circuit
 ---
 
 # 人工智能
@@ -18,4 +19,3 @@ description: DATA130008
   * [Stanford CS221 Artificial Intelligence: Principles and Techniques (Labs ☆)](https://www.bilibili.com/video/BV1Rt4y1B7WT)
   * [上海交大 - 动手学强化学习](https://hrl.boyuai.com/)
   * [UvA Deep Learning Tutorials](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
-

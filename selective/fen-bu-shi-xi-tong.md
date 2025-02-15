@@ -1,8 +1,9 @@
 ---
 description: COMP130123
+icon: chart-network
 ---
 
-# 🌏 分布式系统
+# 分布式系统
 
 ### 内容重要性：☆☆☆☆
 

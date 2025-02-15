@@ -1,8 +1,9 @@
 ---
 description: DATA130060
+icon: head-side-gear
 ---
 
-# ♻️ 强化学习算法与理论基础
+# 强化学习算法与理论基础
 
 ### 内容重要性：☆☆☆☆
 

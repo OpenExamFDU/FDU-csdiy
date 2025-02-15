@@ -1,5 +1,6 @@
 ---
 description: COMP130207
+icon: brain-circuit
 ---
 
 # 人工智能

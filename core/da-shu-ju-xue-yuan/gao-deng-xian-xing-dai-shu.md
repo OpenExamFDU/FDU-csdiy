@@ -1,5 +1,6 @@
 ---
 description: DATA130042
+icon: border-inner
 ---
 
 # 高等线性代数
@@ -18,7 +19,7 @@ description: DATA130042
 *   网课：
 
     * [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.bilibili.com/video/BV1b4411j7V3)
-    * [MIT 6.S955: Applied Numerical Algorithms](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv\_Io\_NT1b0Nzr9YDqpK3Lb)
+    * [MIT 6.S955: Applied Numerical Algorithms](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
     * [丘维声 - 高等代数](https://www.bilibili.com/video/BV1jR4y1M78W)
     * [Stanford CS205A Mathematical Methods for Robotics, Vision, and Graphics](https://www.bilibili.com/video/BV19J411t7Gh)
 

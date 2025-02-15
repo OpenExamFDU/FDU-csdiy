@@ -1,8 +1,9 @@
 ---
 description: COMP130138
+icon: robot-astromech
 ---
 
-# 🖥️ 人机交互
+# 人机交互
 
 ### 内容重要性：☆☆
 

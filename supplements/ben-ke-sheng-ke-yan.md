@@ -1,3 +1,7 @@
+---
+icon: google-scholar
+---
+
 # 本科生科研
 
 ### 科研基础
@@ -20,7 +24,7 @@
 
 ### 本科生科研指南
 
-[彭思达 - Learning Research](https://github.com/pengsida/learning\_research)
+[彭思达 - Learning Research](https://github.com/pengsida/learning_research)
 
 [GAMES003 科研基本素养](https://pengsida.net/games003/)
 
@@ -34,7 +38,7 @@
 
 [You are how you read](https://www.bilibili.com/video/BV1df4y1m74k) by 沈向洋
 
-[How to read a research paper](https://www.eecs.harvard.edu/\~michaelm/postscripts/ReadPaper.pdf) by Michael Mitzenmacher
+[How to read a research paper](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf) by Michael Mitzenmacher
 
 
 
@@ -50,23 +54,23 @@
 
 [Microsoft Research - How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 
-[How to write a good research paper by Bill Freeman](https://faculty.cc.gatech.edu/\~parikh/citizenofcvpr/static/slides/freeman\_how\_to\_write\_papers.pdf)
+[How to write a good research paper by Bill Freeman](https://faculty.cc.gatech.edu/~parikh/citizenofcvpr/static/slides/freeman_how_to_write_papers.pdf)
 
 [Tips for writing NLP papers by Vered Shwartz](https://medium.com/@vered1986/tips-for-writing-nlp-papers-9c729a2f9e1f)
 
-[How to write a technical paper or a research paper by Michael Ernst](https://homes.cs.washington.edu/\~mernst/advice/write-technical-paper.html)
+[How to write a technical paper or a research paper by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 
 [How to Write Research Papers by Tao Xie](https://taoxie.cs.illinois.edu/publications/writepapers.pdf)
 
 [Common Technical Writing Issues by Tao Xie](https://taoxie.cs.illinois.edu/publications/writeissues.pdf)
 
-[Paper Writing Checklist by Zheng Zhang](https://web.ece.ucsb.edu/\~zhengzhang/paper%20writing%20checklist\_v2.pdf)
+[Paper Writing Checklist by Zheng Zhang](https://web.ece.ucsb.edu/~zhengzhang/paper%20writing%20checklist_v2.pdf)
 
 
 
 ### 学术交流
 
-[Tips for Giving Clear Talks by Kayvon Fatahalian](https://graphics.stanford.edu/\~kayvonf/misc/cleartalktips.pdf)
+[Tips for Giving Clear Talks by Kayvon Fatahalian](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf)
 
 [Advice on Research Communications Skills - Princeton CS](https://www.cs.princeton.edu/grad/advice-on-research-communications-skills)
 
@@ -76,13 +80,13 @@
 
 ### 研究经验
 
-[You and Your Research by Richard Hamming](https://www.cs.virginia.edu/\~robins/YouAndYourResearch.pdf)
+[You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
 
 [Demystifying Good Research and Papers by Fei-Fei Li](https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html)
 
 [Useful Thoughts about Research by H.T. Kung](https://eecs.harvard.edu/htk/phdadvice/)
 
-[How to do research by Bill Freeman](https://people.csail.mit.edu/billf/publications/How\_To\_Do\_Research.pdf)
+[How to do research by Bill Freeman](https://people.csail.mit.edu/billf/publications/How_To_Do_Research.pdf)
 
 [Soft Skills for PhD Researchers by Dragomir Radev](https://www.cs.yale.edu/homes/radev/posts/soft-skills.pdf)
 

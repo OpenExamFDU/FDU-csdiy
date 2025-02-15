@@ -1,8 +1,9 @@
 ---
 description: COMP130140
+icon: mobile-signal
 ---
 
-# 📱 移动互联网
+# 移动互联网
 
 ### 内容重要性：☆☆☆
 

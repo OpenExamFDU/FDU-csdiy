@@ -1,3 +1,7 @@
+---
+icon: plane-departure
+---
+
 # 保研 & 出国留学
 
 ## 计算机推免

@@ -1,3 +1,7 @@
+---
+icon: sack-dollar
+---
+
 # Job Interview
 
 ### General
@@ -11,7 +15,7 @@
 
 ### Data Structure and Algorithms
 
-* [LeetCode 101：和你一起你轻松刷题（C++）](https://github.com/changgyhub/leetcode\_101)
+* [LeetCode 101：和你一起你轻松刷题（C++）](https://github.com/changgyhub/leetcode_101)
 * [何海涛 - 剑指Offer：名企面试官精讲典型编程题](https://book.douban.com/subject/27008702/)
 * [Blind 75 Questions](https://www.techinterviewhandbook.org/best-practice-questions/)
 * [Neetcode 150 Practice](https://neetcode.io/practice)
@@ -28,7 +32,7 @@
 ### Behavioral Interview
 
 * [Behavioral Interviews for Software Engineers: How to prepare](https://www.techinterviewhandbook.org/behavioral-interview/)
-* [彻底击碎行为问题](https://docs.google.com/document/d/112HBiMNvu6TYbDUOfVRe\_MS4A-fKaWYrpMlmnsiMNiA/edit?tab=t.0#heading=h.thp51fy8tidu)
+* [彻底击碎行为问题](https://docs.google.com/document/d/112HBiMNvu6TYbDUOfVRe_MS4A-fKaWYrpMlmnsiMNiA/edit?tab=t.0#heading=h.thp51fy8tidu)
 * [Behavioral Interview 总结](https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqbu-cuo-de-zong-jie.html)
 * [Behavioral Interview 准备视频](https://www.youtube.com/c/DanCroitor/videos)
 
@@ -73,7 +77,7 @@
 ### 八股 (Optional)
 
 * [互联网面试 - 八股文](https://github.com/CyC2018/CS-Notes)
-* [校招八股文](https://interviewguide.cn/notes/03-hunting\_job/02-interview/01-01-01-basic.html)
+* [校招八股文](https://interviewguide.cn/notes/03-hunting_job/02-interview/01-01-01-basic.html)
 
 ### Machine Learning Basics (Optional)
 
@@ -89,10 +93,10 @@
 
 ### Deep Learning & LLMs (Optional)
 
-* [LLMs 相关知识及面试题](https://dongnian.icu/llm\_interview\_note/#/)
+* [LLMs 相关知识及面试题](https://dongnian.icu/llm_interview_note/#/)
 * [动手学LLM](https://github.com/liguodongiot/llm-action)
-* [LLM八股](https://dongnian.icu/note/llm/llm\_concept/llm%E5%85%AB%E8%82%A1.html)
-* [百面LLM系列](https://www.zhihu.com/column/c\_1747590116120698880)
+* [LLM八股](https://dongnian.icu/note/llm/llm_concept/llm%E5%85%AB%E8%82%A1.html)
+* [百面LLM系列](https://www.zhihu.com/column/c_1747590116120698880)
 * [Maxime Labonne - LLM Hands-on Course](https://github.com/mlabonne/llm-course)
 * [诸葛越 - 百面深度学习](https://book.douban.com/subject/35043939/)
 * [算法工程师面试秘籍](https://github.com/WeThinkIn/Interview-for-Algorithm-Engineer)

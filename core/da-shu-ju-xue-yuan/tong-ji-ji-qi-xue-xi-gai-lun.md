@@ -1,5 +1,6 @@
 ---
 description: DATA130003
+icon: chart-scatter-3d
 ---
 
 # 统计（机器）学习概论
@@ -19,6 +20,3 @@ description: DATA130003
   * [Stanford CS229 Introduction to Machine Learning](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/CS229/)
   * [Stanford Introduction to Statistical Learning](https://www.bilibili.com/video/BV1u4421A7ZU)
   * [机器学习白板推导](https://www.bilibili.com/video/BV1aE411o7qd)
-
-
-

@@ -1,8 +1,9 @@
 ---
 description: COMP130141
+icon: language
 ---
 
-# 🔥 自然语言处理
+# 自然语言处理
 
 ### 内容重要性：☆☆☆☆☆
 

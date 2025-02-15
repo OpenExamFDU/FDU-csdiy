@@ -1,8 +1,9 @@
 ---
 description: COMP130137
+icon: microchip-ai
 ---
 
-# 🤖 模式识别与机器学习
+# 模式识别与机器学习
 
 ### 内容重要性：☆☆☆☆☆
 

@@ -1,3 +1,7 @@
+---
+icon: whale
+---
+
 # Large Language Models
 
 ### Guides

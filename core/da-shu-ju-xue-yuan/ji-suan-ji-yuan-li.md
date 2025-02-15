@@ -1,5 +1,6 @@
 ---
 description: DATA130025
+icon: ubuntu
 ---
 
 # 计算机原理
@@ -20,4 +21,3 @@ description: DATA130025
   * ☆ [CMU 15-213 Introduction to Computer Systems](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80/CSAPP/#_1)
   * [Coursera Nand2Tetris](https://csdiy.wiki/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/N2T/)（入门）
   * [袁春风 – 计算机系统基础](https://www.bilibili.com/video/BV19J411T7rq)
-

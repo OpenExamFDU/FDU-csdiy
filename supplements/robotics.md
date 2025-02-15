@@ -1,3 +1,7 @@
+---
+icon: user-robot
+---
+
 # Robotics
 
 ### Introductory Courses

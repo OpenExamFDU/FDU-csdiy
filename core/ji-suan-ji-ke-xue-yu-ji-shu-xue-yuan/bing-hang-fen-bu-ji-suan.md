@@ -1,5 +1,6 @@
 ---
 description: COMP130192
+icon: bars-progress
 ---
 
 # 并行分布计算

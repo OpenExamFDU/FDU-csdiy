@@ -1,16 +1,16 @@
 # Table of contents
 
 * [FDU CS自学指南](README.md)
-* [🛫 我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
-* [💻 各编程语言/框架入门推荐](ge-bian-cheng-yu-yan-kuang-jia-ru-men-tui-jian.md)
-* [🏫 修读计划参考](xiu-du-ji-hua-can-kao.md)
+* [我会建议腾飞先导学什么](wo-hui-jian-yi-teng-fei-xian-dao-xue-shi-mo.md)
+* [各编程语言/框架入门推荐](ge-bian-cheng-yu-yan-kuang-jia-ru-men-tui-jian.md)
+* [修读计划参考](xiu-du-ji-hua-can-kao.md)
 
 ## 大类基础 <a href="#basic" id="basic"></a>
 
-* [📑 数学分析B I/II](basic/shu-xue-fen-xibiii.md)
-* [⚛️ 大学物理B 上/下](basic/da-xue-wu-lib-shang-xia.md)
-* [🖥️ 程序设计](basic/cheng-xu-she-ji.md)
-* [📈 线性代数](basic/xian-xing-dai-shu.md)
+* [数学分析B I/II](basic/shu-xue-fen-xibiii.md)
+* [大学物理B 上/下](basic/da-xue-wu-lib-shang-xia.md)
+* [程序设计](basic/cheng-xu-she-ji.md)
+* [线性代数](basic/xian-xing-dai-shu.md)
 
 ## 专业核心 <a href="#core" id="core"></a>
 
@@ -44,23 +44,23 @@
 
 ## 专业选修 <a href="#selective" id="selective"></a>
 
-* [🤖 模式识别与机器学习](selective/mo-shi-shi-bie-yu-ji-qi-xue-xi.md)
-* [🔮 机器学习](selective/ji-qi-xue-xi.md)
-* [🖥️ 人机交互](selective/ren-ji-jiao-hu.md)
-* [🔥 自然语言处理](selective/zi-ran-yu-yan-chu-li.md)
-* [🐈 计算机视觉](selective/ji-suan-ji-shi-jue.md)
-* [⭕ 计算机图形学](selective/ji-suan-ji-tu-xing-xue.md)
-* [⌨️ 系统程序设计](selective/xi-tong-cheng-xu-she-ji.md)
-* [🛣️ 并发理论](selective/bing-fa-li-lun.md)
-* [🖥️ 编程方法与技术](selective/bian-cheng-fang-fa-yu-ji-shu.md)
-* [📱 移动互联网](selective/yi-dong-hu-lian-wang.md)
-* [📊 数据挖掘技术](selective/shu-ju-wa-jue-ji-shu.md)
-* [🚀 并行计算与性能优化](selective/bing-hang-ji-suan-yu-xing-neng-you-hua.md)
-* [🌏 分布式系统](selective/fen-bu-shi-xi-tong.md)
-* [💽 计算机系统工程](selective/ji-suan-ji-xi-tong-gong-cheng.md)
-* [📈 随机过程导论](selective/sui-ji-guo-cheng-dao-lun.md)
-* [🎇 高级大数据解析](selective/gao-ji-da-shu-ju-jie-xi.md)
-* [♻️ 强化学习算法与理论基础](selective/qiang-hua-xue-xi-suan-fa-yu-li-lun-ji-chu.md)
+* [模式识别与机器学习](selective/mo-shi-shi-bie-yu-ji-qi-xue-xi.md)
+* [机器学习](selective/ji-qi-xue-xi.md)
+* [人机交互](selective/ren-ji-jiao-hu.md)
+* [自然语言处理](selective/zi-ran-yu-yan-chu-li.md)
+* [计算机视觉](selective/ji-suan-ji-shi-jue.md)
+* [计算机图形学](selective/ji-suan-ji-tu-xing-xue.md)
+* [系统程序设计](selective/xi-tong-cheng-xu-she-ji.md)
+* [并发理论](selective/bing-fa-li-lun.md)
+* [编程方法与技术](selective/bian-cheng-fang-fa-yu-ji-shu.md)
+* [移动互联网](selective/yi-dong-hu-lian-wang.md)
+* [数据挖掘技术](selective/shu-ju-wa-jue-ji-shu.md)
+* [并行计算与性能优化](selective/bing-hang-ji-suan-yu-xing-neng-you-hua.md)
+* [分布式系统](selective/fen-bu-shi-xi-tong.md)
+* [计算机系统工程](selective/ji-suan-ji-xi-tong-gong-cheng.md)
+* [随机过程导论](selective/sui-ji-guo-cheng-dao-lun.md)
+* [高级大数据解析](selective/gao-ji-da-shu-ju-jie-xi.md)
+* [强化学习算法与理论基础](selective/qiang-hua-xue-xi-suan-fa-yu-li-lun-ji-chu.md)
 
 ## 补充内容 <a href="#supplements" id="supplements"></a>
 

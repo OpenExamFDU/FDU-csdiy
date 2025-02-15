@@ -1,5 +1,6 @@
 ---
 description: COMP130191
+icon: microchip
 ---
 
 # 计算机组成与体系结构

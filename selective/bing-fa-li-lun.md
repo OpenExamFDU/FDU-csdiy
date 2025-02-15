@@ -1,8 +1,9 @@
 ---
 description: COMP130146
+icon: bezier-curve
 ---
 
-# 🛣️ 并发理论
+# 并发理论
 
 ### 内容重要性：☆☆☆
 

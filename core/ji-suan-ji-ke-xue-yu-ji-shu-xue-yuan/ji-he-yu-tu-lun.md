@@ -1,5 +1,6 @@
 ---
 description: COMP130149
+icon: diagram-venn
 ---
 
 # 集合与图论

@@ -1,8 +1,9 @@
 ---
 description: COMP130148
+icon: chart-scatter-bubble
 ---
 
-# 📊 数据挖掘技术
+# 数据挖掘技术
 
 ### 内容重要性：☆☆☆
 

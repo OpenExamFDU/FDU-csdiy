@@ -1,5 +1,6 @@
 ---
 description: COMP130011
+icon: grid-dividers
 ---
 
 # 算法设计与分析

@@ -1,5 +1,6 @@
 ---
 description: COMP130135
+icon: binary
 ---
 
 # 面向对象程序设计

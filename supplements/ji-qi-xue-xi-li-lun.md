@@ -1,3 +1,7 @@
+---
+icon: infinity
+---
+
 # 机器学习理论
 
 ### General

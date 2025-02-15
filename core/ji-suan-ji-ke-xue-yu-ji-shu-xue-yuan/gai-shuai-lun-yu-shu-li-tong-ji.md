@@ -1,5 +1,6 @@
 ---
 description: COMP130006
+icon: cards
 ---
 
 # 概率论与数理统计

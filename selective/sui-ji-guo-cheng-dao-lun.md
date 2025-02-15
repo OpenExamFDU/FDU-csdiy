@@ -1,8 +1,9 @@
 ---
 description: DATA130019
+icon: slot-machine
 ---
 
-# 📈 随机过程导论
+# 随机过程导论
 
 ### 内容重要性：☆☆
 
