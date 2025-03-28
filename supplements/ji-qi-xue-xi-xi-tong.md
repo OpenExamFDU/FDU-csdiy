@@ -6,6 +6,7 @@ icon: microchip-ai
 
 ### Foundations
 
+* [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 * [Sasha Rush - Flash LLM Series](https://www.youtube.com/playlist?list=PLO45-80-XKkT6BUKCYeBMTEqnlcpYavxq)
 * [微软亚洲研究院 - 人工智能系统](https://github.com/microsoft/AI-System)
 * [CMU 10-414 Deep Learning Systems](https://dlsyscourse.org/lectures/)
@@ -14,6 +15,7 @@ icon: microchip-ai
 * [ML Systems Onboarding Reading List](https://github.com/gpu-mode/awesomeMLSys)
 * [UW CSE559 Systems for ML Reading List](https://courses.cs.washington.edu/courses/cse599k/24au/schedule/)
 * [Andrej Karpathy - llm.c](https://github.com/karpathy/llm.c)
+* [How to Scale Your Model - A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book/)
 
 ### Seminars & Collections
 
