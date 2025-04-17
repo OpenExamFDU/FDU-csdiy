@@ -8,6 +8,7 @@ icon: infinity
 
 * [张潼 - Mathematical Analysis of Machine Learning Algorithms](https://tongzhang-ml.org/lt-book/lt-book.pdf)
 * [文再文 - 大数据分析中的算法](http://faculty.bicmr.pku.edu.cn/~wenzw/bigdata2023.html)
+* [滕佳烨 - 机器学习理论简明手册](https://www.tengjiaye.com/mlbook)
 * [NYU Mathematical Tools for Data Science](https://cds.nyu.edu/math-tools/)
 * [Stanford CS229M Machine Learning Theory](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
 * [Stanford STATS385 Analyses of Deep Learning](https://stats385.github.io/)
