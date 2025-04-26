@@ -22,6 +22,7 @@ icon: head-side-gear
     * [HuggingFace Deep RL Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
     * [UCB CS287 Advanced Robotics](https://www.bilibili.com/video/BV1Lo4y187aN)
     * [Reinforcement Learning Tips and Tricks](https://stable-baselines.readthedocs.io/en/master/guide/rl_tips.html)
+    * [RLHF Book by Nathan Lambert](https://rlhfbook.com/)
 
 
 

@@ -33,6 +33,7 @@ icon: whale
 * [Stanford CS25 Transformers United](https://web.stanford.edu/class/cs25/)&#x20;
 * [UCB CS294 Large Language Model Agents](https://rdi.berkeley.edu/llm-agents/f24)
 * [UCB CS294 Advanced Large Language Model Agents](https://rdi.berkeley.edu/adv-llm-agents/sp25)
+* [RLHF Book by Nathan Lambert](https://rlhfbook.com/)
 * [Caltech CS159 Large Language Models for Reasoning](https://sites.google.com/view/cs-159-2024/home?authuser=0)
 * [UWaterloo CS886 Recent Advances on Foundation Models](https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/)
 * [Anthropic LLM Courses: API Fundamentals / Prompt Engineering / Real World Prompting / Prompt Evaluations / Tool Use](https://github.com/anthropics/courses)
