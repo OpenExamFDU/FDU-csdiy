@@ -40,15 +40,7 @@ icon: whale
 * [Reinforcement Learning from Human Feedback Handbook](https://rlhfbook.com/)
 * [MIT Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
 * [UW CSE599J Data-centric Machine Learning](https://koh.pw/cse599j/)
-* [ICLR 2024 Workshop on Large Language Models for Agents](https://iclr.cc/virtual/2024/workshop/20575)
-* [ICLR 2024 Workshop on Reliable and Responsible Foundation Models](https://iclr.cc/virtual/2024/workshop/20588)
-* [ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models](https://iclr.cc/virtual/2024/workshop/20589)
-* [ACL 2023 Tutorial: Complex Reasoning in Natural Language](https://wenting-zhao.github.io/complex-reasoning-tutorial/)
-* [ACL 2023 Tutorial: Retrieval-based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
-* [Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)
 * [Alignment Guidebook](https://www.notion.so/Alignment-Guidebook-e5c64df77c0a4b528b7951e87337fa78)
-* [ACL 2022 Tutorial: Vision-Language Pretraining: Current Trends and the Future](https://vlp-tutorial-acl2022.github.io/)
-* [ACL 2020 Tutorial: Commonsense](https://maartensap.com/acl2020-commonsense/)
 
 ### Collections & Blogs
 
