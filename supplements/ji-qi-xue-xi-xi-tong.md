@@ -81,6 +81,7 @@ icon: microchip-ai
 
 #### Inference & Serving
 
+* [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
 * [Mistral-AI‬ - Exploring the Latency/Throughput & Cost Space for LLM Inference](https://www.youtube.com/watch?v=mYRqvB1_gRk)
 * [Yao Fu - Full Stack Transformer Inference Optimization Season 1: Towards 100x Speedup](https://yaofu.notion.site/Towards-100x-Speedup-Full-Stack-Transformer-Inference-Optimization-43124c3688e14cffaf2f1d6cbdf26c6c)
 * [Yao Fu - Full Stack Transformer Inference Optimization Season 2: Deploying Long-Context Models](https://yaofu.notion.site/Full-Stack-Transformer-Inference-Optimization-Season-2-Deploying-Long-Context-Models-ee25d3a77ba14f73b8ae19147f77d5e2)
