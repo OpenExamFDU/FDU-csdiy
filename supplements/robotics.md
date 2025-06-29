@@ -38,6 +38,7 @@ icon: user-robot
 
 ### Robotics Learning & Computer Vision
 
+* [Mila Robot Learning 2025: Foundational Models for Robotics and Scaling DeepRL](https://www.youtube.com/playlist?list=PLMe2pHxzxHp-UJ1jd-uuGSGK7P7Phtm-f)
 * [UCB CS287 Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 * [UCB CS294 Robots That Learns](https://robots-that-learn.github.io/)
 * [CMU 16-831 Introduction to Robot Learning](https://16-831-s24.github.io/)
