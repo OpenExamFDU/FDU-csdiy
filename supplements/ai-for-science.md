@@ -78,6 +78,7 @@ icon: flask-vial
 ### Math
 
 * [AI for Math Resources](https://docs.google.com/document/d/1kD7H4E28656ua8jOGZ934nbH2HcBLyxcRgFDduH5iQ0/edit)
+* [北大董彬 - AI for Mathematics 指南](http://faculty.bicmr.pku.edu.cn/~dongbin/Data/AI4M2025.pdf)
 
 ### Astronomy
 
