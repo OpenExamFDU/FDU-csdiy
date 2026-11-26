@@ -42,6 +42,7 @@ icon: sack-dollar
 * [New Grad Full-time Positions - 2024](https://github.com/ReaVNaiL/New-Grad-2024)
 * [New Grad Full-time Positions - 2025](https://github.com/SimplifyJobs/New-Grad-Positions)
 * [Tech Summer Internships - 2025](https://github.com/SimplifyJobs/Summer2025-Internships)
+* [AI and ML Summer Internships - 2027](https://github.com/landedjobs/summer-2027-ai-internships)
 * [Jobright - The Ultimate 2025 U.S. Internships List](https://intern-list.com/)
 * [Indeed - Job Search](https://www.indeed.com/)
 * [NLPJob](https://www.nlpjob.com/)
